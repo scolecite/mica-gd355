@@ -1,1 +1,2 @@
-# mica-gd355
+# Media Language Workshop
+
