@@ -14,8 +14,11 @@
 
 3 credits. This course is taught in modules designed to explore various media languages relevant to visual problem solving: html5, css, javascript, processing, or others could be covered in short workshops. Students will be exposed to a broad range of programming languages that are used in professional design practice. Prerequisite: gd 220 (Graphic Design 2)
 
-
-
+## Learning Outcomes
+- Develop proficiency with computer programming languages.
+- Develop a design process using computation.
+- Create rules and systems for visual problem solving.
+- Apply coding skills in creative projects.
 
 ## Weekly Schedule
 
