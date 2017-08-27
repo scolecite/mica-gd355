@@ -24,5 +24,5 @@
 
 ### Week 1
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQMNXsYxtiz50Zv58v5vOA7Rhw-FkOvojQx7N9vw3XjUH_Q/viewform?usp=sf_link)
-
+- [setup](lectures/w1-setup.md)
 
