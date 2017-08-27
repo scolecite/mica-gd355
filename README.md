@@ -7,7 +7,7 @@
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
 - Office hours: W 2-3pm, Th 3-4pm & F 3-4pm (email for an appointment)
-- [Syllabus]()
+- [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
 
 
 ## Course Descriptions
