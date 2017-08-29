@@ -8,6 +8,7 @@
 - Office: BR303
 - Office hours: W 2-3pm, Th 3-4pm & F 3-4pm (email for an appointment)
 - [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
+- Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrM1h1YjJSNjFXTGs?usp=sharing)
 
 
 ## Course Descriptions
