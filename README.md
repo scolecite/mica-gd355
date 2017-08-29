@@ -7,8 +7,6 @@
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
 - Office hours: W 2-3pm, Th 3-4pm & F 3-4pm (email for an appointment)
-- [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
-- Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrM1h1YjJSNjFXTGs?usp=sharing)
 
 
 ## Course Descriptions
@@ -21,9 +19,15 @@
 - Create rules and systems for visual problem solving.
 - Apply coding skills in creative projects.
 
+## Some links
+- [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
+- Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrM1h1YjJSNjFXTGs?usp=sharing)
+- [Live poll link](https://pollev.com/daechung096)
+
 ## Weekly Schedule
 
 ### Week 1
 - [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQMNXsYxtiz50Zv58v5vOA7Rhw-FkOvojQx7N9vw3XjUH_Q/viewform?usp=sf_link)
 - [Setup](lectures/w1-setup.md)
+- [Assignments](lectures/w1-assignments.md)
 
