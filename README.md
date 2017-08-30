@@ -28,6 +28,10 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 1
 - [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQMNXsYxtiz50Zv58v5vOA7Rhw-FkOvojQx7N9vw3XjUH_Q/viewform?usp=sf_link)
-- [Setup](lectures/w1-setup.md)
+- Setup:
+  - Install Brackets code editor: http://brackets.io
+  - Install [Chrome web browser](https://www.google.com/chrome)
+  - Sign up on http://codepen.io
+  - Sign up on http://github.com
 - [Assignments](lectures/w1-assignments.md)
 
