@@ -21,6 +21,7 @@ This course is taught in modules designed to explore various media languages rel
 
 ## Some links
 - [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
+- Resources
 - Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrM1h1YjJSNjFXTGs?usp=sharing)
 - [Live poll link](https://pollev.com/daechung096)
 
