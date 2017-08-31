@@ -10,3 +10,9 @@
 - [Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi) from [Kadenze](https://www.kadenze.com)
 - [Lynda.com](http://lynda.com)
 
+
+## Inspirations
+- http://www.creativeapplications.net
+- http://p5art.tumblr.com/archive
+- http://fyprocessing.tumblr.com
+- https://beesandbombs.tumblr.com
