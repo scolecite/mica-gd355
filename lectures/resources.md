@@ -23,5 +23,6 @@
 
 
 ## Books
+- [Getting Started with 5.js](https://www.amazon.com/Getting-Started-p5-js-Interactive-JavaScript/dp/1457186772/ref=sr_1_1?ie=UTF8&qid=1504201611&sr=8-1&keywords=p5js)
 - Form & Code
 - Generative Design
