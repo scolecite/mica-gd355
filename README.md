@@ -33,6 +33,8 @@ This course is taught in modules designed to explore various media languages rel
   - Install [Chrome web browser](https://www.google.com/chrome)
   - Sign up on http://codepen.io
   - Sign up on http://github.com
+- Conditional design exercise
+- Stanford Karel
 - [Assignments](lectures/w1-assignments.md)
 
 ### Week 2
