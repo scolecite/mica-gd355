@@ -35,3 +35,5 @@ This course is taught in modules designed to explore various media languages rel
   - Sign up on http://github.com
 - [Assignments](lectures/w1-assignments.md)
 
+### Week 2
+- How to write p5.js code on Codepen
