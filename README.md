@@ -35,7 +35,7 @@ This course is taught in modules designed to explore various media languages rel
   - Sign up on http://codepen.io
   - Sign up on http://github.com
 - Conditional design exercise
-- [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html)
+- [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
 - [Assignments](lectures/w1-assignments.md)
 
 ### Week 2
