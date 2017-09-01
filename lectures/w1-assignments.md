@@ -7,3 +7,4 @@
     1. [Basics of drawing (15m)](https://www.youtube.com/watch?v=D1ELEeIs0j8&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=2)
     1. [Colors (15m)](https://www.youtube.com/watch?v=9mucjcrhFcM&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=3)
     1. [How to upload your sketch (14m)](https://www.youtube.com/watch?v=lbKMZa-CZ_Y&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=4)
+1. Work on KAREL 8.5 and 9.2.
