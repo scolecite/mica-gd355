@@ -1,0 +1,439 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<title>GD405 Week 1</title>
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/night.css">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+		<style>
+			.reveal .slides {
+        text-align: left;
+      }
+      .reveal .slides section img {
+        border: none;
+        background: none;
+      }
+      .reveal .slides section a {
+        border-bottom: 3px dotted grey;
+      }
+      .reveal .slides section h3 {
+        line-height: 1.3em;
+      }
+      .reveal .slides section h4,
+      .reveal .slides section p,
+      .reveal .slides section li,
+			.reveal .slides section blockquote {
+        line-height: 1.7em;
+      }
+      
+      aside.notes p {
+        
+      }
+		</style>
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section><!-- intro -->
+					<section>
+						<h1>Media Languages Workshop</h1>
+					</section>
+					<section>
+						<h2>Dae-In Chung</h2>
+						<ul>
+							<li><a href="http://paperdove.com">http://paperdove.com</a></li>
+							<li><a href="mailto:dchung01@mica.edu">dchung01@mica.edu</a></li>
+						</ul>
+					</section>
+				</section><!-- end intro -->
+				
+				<section><!-- computational design -->
+					<section>
+						<h3>How much do we know about computer?</h3>
+					</section>
+					<section>
+						<blockquote>
+							“All artists and designers in the 21st century should have experience programming their own software…If the person is unable to shape the tool they are shaped and moulded by another person’s idea of what the software is and what software can be.” &mdash; Casey Reas
+						</blockquote>
+					</section>
+					<section>
+						<img data-src="images/photoshop-screen.png" alt="photoshop screen">
+						<img style="position:absolute; top:0%; left:20%;" src="images/ai-tools.png" alt="">
+						<img style="position:absolute; top:0%; left:40%;" src="images/ps-tools.png" alt="">
+					</section>
+					<section>
+						<img data-src="images/p5js-screen.png" alt="p5js editor screen">
+					</section>
+					<section>
+						<img data-src="images/lillian-schwartz.jpg" alt="Lillian Schwartz" width="60%">
+						<p>Lillian Schwartz</p>
+					</section>
+					<section>
+						<p><a href="http://lillian.com/films/" target="_blank">Pixillation, 1970</a></p>
+					</section>
+					<section>
+						<img data-src="images/vera-molnar.png" alt="Lillian Schwartz" width="100%">
+						<p>Vera Molnár</p>
+					</section>
+					<section>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/TbV7loKp69s" frameborder="0" allowfullscreen></iframe>
+						<p><small>Catalog by John Whitney, 1961</small></p>
+					</section>
+					<section>
+						<h3>Aren't we lucky that we have so many tools and resourses?</h3>
+					</section>
+					<section>
+						<blockquote>
+							The ability to program provides important benefits. For example, it greatly expands the range of what you can create (and how you can express yourself) with the computer. It also expands the range of what you can learn. In particular, programming supports “computational thinking,” helping you learn important problem-solving and design strategies (such as modularization and iterative design) that carry over to nonprogramming domains. ...
+						</blockquote>
+					</section>
+					<section>
+						<blockquote>
+							...And since programming involves the creation of external representations of your problem-solving processes, programming provides you with opportunities to reflect on your own thinking, even to think about thinking itself.
+							<p><small>&mdash; Scratch: Programming for All from COMMUNICATIONS OF THE ACM NOV. 2009 ISSUE</small></p>
+						</blockquote>
+					</section>
+					<section>
+						<p>I can build something bigger than what I can imagine...<br>
+            The machine is your extension.<br>
+            &mdash; <a href="https://vimeo.com/157167520" target="_blank">Manfred Mohr</a></p>
+					</section>
+				</section><!-- end computational design -->
+				
+				<section><!-- algorithm -->
+					<section>
+						<h2>Algorithm</h2>
+					</section>
+					<section>
+						<h3>A self-contained step-by-step set of operations to be performed.</h3>
+					</section>
+					<section>
+						<h3>A series of instructions.</h3>
+					</section>
+					<section>
+						<img data-src="images/design-process.jpg">
+					</section>
+<!--
+					<section>
+						<img src="images/resnick-spiral.jpg" alt="">
+						<p><small>Mitchell Resnick's learning spiral</small></p>
+					</section>
+-->
+					<section>
+						<img src="images/recipe.jpg" alt="">
+					</section>
+					<section>
+						<img src="images/directions.png" alt="">
+					</section>
+					<section>
+						<h3>communicate with machines.</h3>
+					</section>
+					<section>
+						<img src="images/machine-code.png" width="70%">
+						<p><small>Machine language</small></p>
+					</section>
+					<section>
+						<h3>Something humans can read as well.</h3>
+					</section>
+					<section>
+						<img src="images/scratch.jpg" alt="">
+						<p><small>Scratch</small></p>
+					</section>
+					<section>
+						<img src="images/nodebox.png" width="80%">
+						<p><small>Nodebox</small></p>
+					</section>
+					<section>
+						<img src="images/processing.png" alt="">
+						<p><small>Processing</small></p>
+					</section>
+					<section>
+						<img src="images/p5js-paint.png" width="60%">
+					</section>
+				</section><!-- end algorithm -->
+				
+				<section><!-- rule-based design -->
+					<section>
+						<h2>Rule-based design</h2>
+					</section>
+					<section>
+						<img src="images/reas-1.png" width="40%">
+						<img src="images/reas-2.jpg" width="40%">
+						<p><small>Casey Reas</small></p>
+					</section>
+					<section>
+						<iframe src="https://player.vimeo.com/video/22955812?color=ffffff&title=0&byline=0&portrait=0" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						<p><small>Casey Reas</small></p>
+					</section>
+					<section>
+						<iframe src="https://player.vimeo.com/video/86462056?color=ffffff&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+						<p><small><code>10 PRINT CHR$(205.5+RND(1)); : GOTO 10</code></small></p>
+					</section>
+					<section>
+						<img src="images/10-print.png" width="70%">
+					</section>
+					<section>
+						<img src="images/lewitt-1.jpg" width="90%">
+						<p><small>Sol Lewitt</small></p>
+					</section>
+					<section>
+						<img src="images/lewitt-2.jpg" width="100%">
+						<p><small>Sol Lewitt</small></p>
+					</section>
+					<section>
+						<ul>
+							<li>Using a black, hard crayon, draw four contiguous ten inch squares.</li>
+							<li>Within the first square (upper left) draw one line, one inch long.</li>
+							<li>Within the second square (upper right) draw ten lines, each one inch long. </li>
+							<li>Within the third square (lower left) draw one hundred lines, each one inch long.</li>
+							<li>Within the fourth square (lower right) draw one thousand lines, each one inch long.</li>
+							<li>All lines should be drawn at random, and straight.</li>
+						</ul>
+					</section>
+					<section>
+						<img src="images/lewitt-3.png" width="70%">
+						<p><small>Sol Lewitt</small></p>
+					</section>
+					<section>
+						<img src="images/koblin-sheep-1.jpg" alt="">
+						<img src="images/koblin-sheep-2.jpg" alt="">
+						<p><small>Aaron Koblin</small></p>
+					</section>
+					<section>
+						<img src="images/koblin-dollar-1.png" alt="">
+					</section>
+					<section data-background-video="media/koblin-dollar-2.m4v">
+					</section>
+					<section>
+						<iframe src="https://player.vimeo.com/video/45192054" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+					</section>
+				</section><!-- end rule-based design -->
+				
+				<section><!-- generative vs. computational -->
+					<section>
+						<h3>Generative design</h3>
+						<p>is a technology that mimics nature’s evolutionary approach to design. It starts with your design goals and then explores all of the possible permutations of a solution to find the best option. ... The process lets designers generate brand new options, beyond what a human alone could create, to arrive at the most effective design.</p>
+					</section>
+					<section>
+						<iframe width="853" height="480" src="https://www.youtube.com/embed/E2SxqUvtpIk?rel=0" frameborder="0" allowfullscreen></iframe>
+            <p><small>The Future of Making Things: Generative Design from Autodesk</small></p>
+					</section>
+					<section>
+						<h2>Why do we care?</h2>
+					</section>
+					<section>
+						<ul>
+							<li>Automation of repetitive tasks</li>
+							<li>Animation & interaction</li>
+							<li>New possibilities for visual expressions</li>
+							<li>Digital communication</li>
+							<li>Systematic thinking process</li>
+						</ul>
+					</section>
+					<section>
+						<h3>Working with systems and rules.</h3>
+            <p>
+              Meta-design is much more difficult than design;<br>
+              it’s easier to draw something than to explain how to draw it.<br>
+              &mdash; Donald Knuth, The Metafont Book
+            </p>
+          </section>
+				</section><!-- end generative -->
+				
+				<section><!-- code -->
+					<section>
+						<h3>Sounds fun but it's not easy.</h3>
+						<h3>It's fun <em>because</em> it's hard.</h3>
+						<h3>Hard fun.</h3>
+					</section>
+					<section>
+						<h2>What we need:</h2>
+						<ul>
+							<li>Open mind</li>
+							<li>Patience</li>
+							<li>Persistence</li>
+							<li>Support for each other</li>
+							<li>Perspective</li>
+						</ul>
+					</section>
+					<section>
+						<img src="images/p5js.svg" alt="">
+						<ul style="padding-left: 10%;">
+							<li>For visual artists/designers</li>
+							<li>similar to Processing</li>
+							<li>Javascript (vs. Java)</li>
+							<li>Works in many browsers & devices</li>
+						</ul>
+					</section>
+				</section><!-- end type and code -->
+				
+				<section><!-- conditional design -->
+					<section>
+						<h2>Conditional Design</h2>
+						<p>...Our work focuses on processes rather than products: things that adapt to their environment, emphasize change and show difference... <br>
+            &mdash; <a href="http://conditionaldesign.org" target="_blank">conditionaldesign.org</a></p>
+					</section>
+					<section>
+						<iframe src="https://player.vimeo.com/video/6472992" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            <p><small><a href="http://conditionaldesign.org" target="_blank"\>conditionaldesign.org</a></small></p>
+					</section>
+					<section>
+						<img src="images/conditional-design-w3.png" alt="">
+					</section>
+					<section>
+						<img src="images/conditional-design-w1.png">
+            <p><small><a href="http://conditionaldesign.org" target="_blank"\>conditionaldesign.org</a></small></p>
+					</section>
+					<section>
+						<h3>Turtle exercise</h3>
+					</section>
+					<section>
+            <h4>Think of a turtle at the center of paper.</h4>
+            <img src="images/turtle1.gif">
+          </section>
+          <section>
+            <h4>You will create instructions for it to follow and move.</h4>
+            <img src="images/turtle3.gif">
+          </section>
+          <section>
+            <h4>When the turtle moves, it leaves a trace.</h4>
+            <img src="images/turtle4.gif">
+          </section>
+          <section>
+            <h4>I will give you a shape to draw.</h4>
+            <img src="images/turtle5.gif">
+          </section>
+          <section>
+            <h4>Discuss as a group to decide what instructions/commands to use. Keep the instructions simple. &mdash; a word and a number.</h4>
+          </section>
+          <section>
+            <h4>Describe <em>how</em>, not what to draw.</h4>
+            <h4><s>"Draw a big rectangle."</s></h4>
+            <h4><s>"Draw a lowercase b"</s></h4>
+          </section>
+          <section>
+            <h4>Half the group will give instructions. <br>The other half will execute them.</h4>
+          </section>
+          <section>
+          	<h4>Let's do it.</h4>
+          </section>
+          <section>
+            <img style="float: left;" src="images/turtle-square.gif">
+            <pre style="box-shadow: none; font-size: 1em;">
+  TO SQUARE
+    FORWARD 100
+    RIGHT 90
+    FORWARD 100
+    RIGHT 90
+    FORWARD 100
+    RIGHT 90
+    FORWARD 100
+    RIGHT 90
+  END
+            </pre>
+            <p style="clear: both;"><small>from Mindstorm by Seymour Papert</small></p>
+            <aside class="notes">
+              <p>
+                This exercise is inspired by the book, Mindstorm and LOGO programming environment by Seymour Papert.
+              </p>
+              <p>
+                Here, we see two simple commands for the turtle to perform. And we can give this series of instruction a name; SQUARE. So, anytime we call SQUARE "function", it will perform the same instructions.
+              </p>
+            </aside>
+          </section>
+          <section>
+            <img style="float: left;" src="images/turtle-square.gif">
+            <pre style="box-shadow: none; font-size: 1em;">
+  TO SQUARE
+    REPEAT 4
+    FORWARD 100
+    RIGHT 90
+  END
+            </pre>
+            <p style="clear: both;"><small>from Mindstorm by Seymour Papert</small></p>
+            <aside class="notes">
+              <p>
+                And because the same forward/right commands are repeated, we can tell it to repeat it 4 times.
+              </p>
+            </aside>
+          </section>
+          <section>
+            <img style="float: left;" src="images/turtle-square.gif">
+            <pre style="box-shadow: none; font-size: 1em;">
+  TO SQUARE:SIZE
+    REPEAT 4
+    FORWARD :SIZE
+    RIGHT 90
+  END       
+            </pre> 
+            <p style="clear: both;"><small>from Mindstorm by Seymour Papert</small></p>  
+            <aside class="notes">
+              <p>
+                Now, instead of telling the turtle to draw the same square every time, we can abstract the distnce it moves and make it into a variable, SIZE. Then, we can call the SQUARE function with different numbers to draw squares in different sizes.
+              </p>
+            </aside>
+          </section>
+          <section>
+           	<h4>Takeaways</h4>
+            <ul>
+              <li>Parameterize</li>
+              <li>Function</li>
+              <li>Modularize</li>
+              <li>Iteration</li>
+            </ul>
+            <aside class="notes">
+              <p>
+               With this simple exercise, we can learn many important design concepts that are already familiar to software engineers.
+              </p>
+              <p>
+               1. Instead of saying 'draw a BIG square,' we  parameterize the SIZE to respond to different conditons.
+              </p>
+              <p>
+                2. The way we command the turtle, different actions it can take is a function. We also abstract the function SQUARE.
+              </p>
+              <p>
+                3. Each instruction is simple; move or turn. We can break down the complex instruction into smaller pieces.
+              </p>
+              <p>
+                4. We can develop the logic and test and repeat to improve it. That is an iteration.
+              </p>
+            </aside>
+          </section>
+				</section><!-- end conditional design -->
+			</div>
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'plugin/markdown/marked.js' },
+					{ src: 'plugin/markdown/markdown.js' },
+					{ src: 'plugin/notes/notes.js', async: true },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+				]
+			});
+		</script>
+	</body>
+</html>
