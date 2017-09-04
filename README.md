@@ -41,5 +41,5 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 2
 - [Set up a sketch](lectures/w2-setup-sketch.md)
-- [Basic drawing]()
-- 
+- [Basic drawing](lectures/w2-basic-drawing.md)
+- [Advanced drawing](lectures/w2-adv-drawing.md)
