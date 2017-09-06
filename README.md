@@ -40,6 +40,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w1-assignments.md)
 
 ### Week 2
+- JavaScript drawing [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
 - [Structure of a sketch](lectures/w2-structure.md)
 - [Basic drawing](lectures/w2-basic-drawing.md)
