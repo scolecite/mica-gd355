@@ -41,6 +41,7 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 2
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
+- [Structure of a sketch](lectures/w2-structure.md)
 - [Basic drawing](lectures/w2-basic-drawing.md)
 - [Advanced drawing](lectures/w2-adv-drawing.md)
 - [Drawing type](lectures/w2-drawing-type.md)
