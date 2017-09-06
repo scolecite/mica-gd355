@@ -101,5 +101,3 @@ textFont('Merriweather');
 text("It works!", 100, 100);
 ```
 
-## *Exercise*
-*Now you know the several functions related to typography. You also know how to use many other basic drawing functions. Combine those and explore the letterform-making through code. Tips: Use `mouseX` and `mouseY` instead of numbers for interactions. Look at [this example](http://codepen.io/cdaein/pen/wgdORj).*
