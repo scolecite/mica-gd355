@@ -44,6 +44,6 @@ This course is taught in modules designed to explore various media languages rel
 - [Basic drawing](lectures/w2-basic-drawing.md)
 - [Advanced drawing](lectures/w2-adv-drawing.md)
 - [Drawing type](lectures/w2-drawing-type.md)
-
+- Assignments
 
 ### Week 3
