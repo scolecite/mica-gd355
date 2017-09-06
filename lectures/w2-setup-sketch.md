@@ -17,7 +17,7 @@ different ways to setup a p5.js sketch.
 1. Create a new pen.
 1. Click the gear icon next to JS tab.
 1. Under Add External JavaScript, copy and paste the following:
-  `https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.6/p5.min.js`
+  `https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.min.js`
 1. Save & Close.
 1. Now, start coding in the JS tab. (You don't need anything in HTML or CSS tab.)
 
