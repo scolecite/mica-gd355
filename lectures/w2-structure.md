@@ -12,7 +12,7 @@ function draw() {
 }
 ```
 
-'setup()' will run *once* at the beginning, and then 'draw()' will run continuously. For example, we only need to set the canvas size *once*, therefore, that code will go into the setup function. If you have any interactions that you need to track every frame, you do not want to put the code in the setup as it will only update once. Instead, put it inside the draw function.
+`setup()` will run *once* at the beginning, and then `draw()` will run continuously. For example, we only need to set the canvas size *once*, therefore, that code will go into the setup function. If you have any interactions that you need to track every frame, you do not want to put the code in the setup as it will only update once. Instead, put it inside the draw function.
 
 Compare the two examples below:
 
