@@ -12,6 +12,11 @@
 - [Codecademy](https://www.codecademy.com) - interactive lessons for various topics
 - [code.tutsplus.com](http://code.tutsplus.com/)
 
+## Advanced learning
+- [Nature of Code](http://natureofcode.com)
+- [Coding Math](http://codingmath.com)
+
+
 
 ## Inspirations
 - http://www.creativeapplications.net
