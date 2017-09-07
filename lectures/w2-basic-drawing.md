@@ -78,7 +78,6 @@ endShape(CLOSE);
 ```js
 strokeWeight(5); // set stroke width to 5 px.
 ```
-*Exercise: Go back to one of the earlier sketches and play with color, transparency and strokeweight.*
 
 ## Color
 You can set colors of the stroke and the fill. 
@@ -108,5 +107,5 @@ Adding an optional parameter will enagle the transparency to both greyscale and 
 fill(200, 100); // set fill to light grey with transparency.
 stroke(255, 0, 0, 80); // set stroke to red with transparency.
 ```
-
+*Exercise: Go back to one of the earlier sketches and play with color, transparency and strokeweight.*
 
