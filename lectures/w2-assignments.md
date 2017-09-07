@@ -5,7 +5,7 @@
     - 2.3: JavaScript Objects
 
 1. Visit this [Kadenze course page](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-i)(you can sign up for free), go to [Session 2:Variables and Loops page](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-i/sessions/variables-and-loops) and watch the videos:
-    - 1. Variables: Store, Modify, & Reuse Data
-    - 2. Changing Variable Values with Math
+    - 1.Variables: Store, Modify, & Reuse Data
+    - 2.Changing Variable Values with Math
 
 1. 
