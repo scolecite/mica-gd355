@@ -1,5 +1,5 @@
 # Convert from Illustrator to p5.js code
-If you have a complex shape that is hard to draw by plotting points one by one, you can create shapes in other vector programs such as Illustrator, then translate the shapes to p5.js codes. There is no simple way to do this in p5.js yet, but, if you follow a few extra steps, you can replicate your Illustrator paths in p5.js.
+If you have a complex shape that is hard to draw by plotting points one by one, you can create first in Illustrator, then translate the shapes to p5.js codes. There is no simple way to do this in p5.js yet, but, if you follow a few extra steps, you can replicate your Illustrator paths in p5.js.
 
   1. Draw a path in Illustrator.
   1. Save as, and choose SVG as file format.
