@@ -49,3 +49,5 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w2-assignments.md)
 
 ### Week 3
+- Variables
+- 
