@@ -9,4 +9,4 @@
     - 1.Variables: Store, Modify, & Reuse Data
     - 2.Changing Variable Values with Math
 
-1. In a p5.js sketch, **draw your self-portrait with code.** All graphics must be created with code. Bonus: use variables and mouse interactions! Upload the entire sketch folder onto Google Drive Week 2 folder.
+1. In a p5.js sketch, **draw your self-portrait with code.** All graphics must be created with code. Bonus: use variables and mouse interactions! Upload the entire sketch folder ( + a screenshot of the sketch) onto Google Drive Week 2 folder.
