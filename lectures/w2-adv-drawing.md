@@ -2,7 +2,6 @@
 We will take a look at more advanced drawing functions in this section.
 
 ## Counter shape
-Some letters have a hole in it, such as O, P, R, etc. You can use contour functions to handle it.
 ```js
 noStroke();
 fill(0);
@@ -23,16 +22,16 @@ endContour();
 
 endShape(CLOSE);
 ```
-Notice that if you draw a main shape clockwise, then your contour should be drawn counter-clockwise. Look at [this example](http://codepen.io/cdaein/pen/JENxOm).
+Notice that if you draw a main shape clockwise, then your contour *must* be drawn counter-clockwise. Look at [this example](http://codepen.io/cdaein/pen/JENxOm).
 
-*Exercise: Draw a letter that has a counter.*
+*Exercise: Draw a shape that has a counter.*
 
 ## Arc
 You can draw part of an ellipse or arc. `arc()` function needs quite a few parameters.
 ```js
 arc(centerX, centerY, width, height, startAngle, endAngle);
 ```
-By default, p5.js uses radians to measure angles. The radian measurements are based on &pi; (pi), the ratio of a circle's circumference to its diameter. &pi; is approximately 3.141592. 0 degree is equal to 0 radians, and 180 degree is equal to 2&pi; radians. See [this animation](https://en.wikipedia.org/wiki/File:Circle_radians.gif). So, if you want to draw a quarter (90 degree) circle, you will say:
+By default, p5.js uses *radians* to measure angles. The radian measurements are based on &pi; (pi), the ratio of a circle's circumference to its diameter. &pi; is approximately 3.141592. 0 degree is equal to 0 radians, and 180 degree is equal to 2&pi; radians. See [this animation](https://en.wikipedia.org/wiki/File:Circle_radians.gif). So, if you want to draw a quarter (90 degree) circle, you will say:
 ```js
 arc(width/2, height/2, 100, 100, 0, PI/2);
 ```
@@ -47,8 +46,6 @@ angleMode(DEGREES);
 Note that most code examples you find will use radians, so it's a good idea to get used to the radians measurement.
 
 *Exercise: Draw a pie chart that visualizes your day by hour. Use different colors for different activities - sleep, commute, class, work, etc.*
-
-*Exercise: See if you can create a few letters from Peter Cho's [Type Me, Type Me Not](http://www.typotopo.com/projects.php?id=typemenot). The whole typeface uses 2 arcs for each letter.*
 
 ## Curves
 Drawing curves in p5.js is not easy. There are mainly two different curve types - curve and bezier.
@@ -73,7 +70,7 @@ endShape();
 ```
 
 ### Convert from Illustrator to p5.js code
-If drawing curves by plotting points look difficult, you can create shapes in other programs such as Illustrator, then translate the shapes to p5.js codes. There is no simple way to do this in p5.js yet, but, if you follow a few extra steps, you can replicate your Illustrator paths in p5.js.
+If drawing curves by plotting points look difficult, you can create shapes in other vector programs such as Illustrator, then translate the shapes to p5.js codes. There is no simple way to do this in p5.js yet, but, if you follow a few extra steps, you can replicate your Illustrator paths in p5.js.
 
   1. Draw a path in Illustrator.
   1. Save as, and choose SVG as file format.
