@@ -45,6 +45,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Structure of a sketch](lectures/w2-structure.md)
 - [Basic drawing](lectures/w2-basic-drawing.md)
 - [Advanced drawing](lectures/w2-adv-drawing.md)
+- [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 - [Drawing type](lectures/w2-drawing-type.md)
 - [Assignments](lectures/w2-assignments.md)
 
