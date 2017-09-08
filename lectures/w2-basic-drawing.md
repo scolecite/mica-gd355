@@ -72,7 +72,7 @@ If you want to connect the last vertex and the first vertex, add an optional par
 ```js
 endShape(CLOSE);
 ```
-*Exercise: Draw the outline of an uppercase F using vertices.*
+*Exercise: Draw a star using vertices.*
 
 ### Stroke weight
 ```js
