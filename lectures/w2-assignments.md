@@ -18,3 +18,4 @@
 - All graphics must be created with code. Bonus: use variables and mouse interactions! 
 - Upload the entire sketch folder ( + a screenshot image of the sketch) onto Google Drive Week 2 folder.
 - Use this exercise as an opportunity to explore various drawing functions. Push yourself. Do more.
+- When you don't know how to create something, do some research online. That's how everyone learns to code - searching on Google.
