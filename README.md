@@ -53,4 +53,5 @@ This course is taught in modules designed to explore various media languages rel
 - [p5.js online editor](http://alpha.editor.p5js.org)
 - [Variables](lectures/w3-variables.md)
 - [Arithmetic](lectures/w3-arithmetic.md)
-- []()
+- [Randomness](lectures/w3-random.md)
+
