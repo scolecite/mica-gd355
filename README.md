@@ -51,5 +51,5 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 3
 - [p5.js online editor](http://alpha.editor.p5js.org)
-- Variables
+- [Variables](lectures/w3-variables.md)
 - 
