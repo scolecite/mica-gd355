@@ -10,7 +10,7 @@ If you have a complex shape that is hard to draw by plotting points one by one, 
   1. Click convert.
   1. Copy the generated code.
   1. This is a html5 canvas code, which is different from p5.js code.
-  1. replace any `moveTo()` or `lineTo()` with `vertex()`. 
+  1. replace any `ctx.moveTo()` or `ctx.lineTo()` with `vertex()`. Remove the `ctx.` prefix.
   1. replace any `bezierCurveTo()` with `bezierVertex()`.
   1. round the numbers to integers.
   1. surround the code with `beginShape()` and `endShape()`.
