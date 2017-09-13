@@ -51,7 +51,11 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 3
 - [p5.js online editor](http://alpha.editor.p5js.org)
-- [Variables](lectures/w3-variables.md)
 - [Arithmetic](lectures/w3-arithmetic.md)
+- [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
+- Function
+- Transformation (how to move, rotate and scale objects)
 
+### Week 4
+-
