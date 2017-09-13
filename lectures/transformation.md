@@ -4,7 +4,7 @@ Transformations such as position, rotation and scale works differently from what
 
 ## Draw a squiggly
 
-```
+```js
 function setup() {
 	createCanvas(400, 400);
 }
