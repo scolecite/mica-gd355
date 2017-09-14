@@ -1,6 +1,6 @@
 # Transformation
 
-We will continue with the `drawSquiggle()` function we created in the last posting. Here is the code:
+We will continue with the `drawSquiggle()` function we created in [the last posting](w4-function.md). Here is the code:
 
 ```js
 function setup() {
