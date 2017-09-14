@@ -62,7 +62,7 @@ function drawSquiggle() {
 
 This is better in terms of the initial setup. Now, we don't need to look at the long code block. All we need to do is to call `drawSquiggle()` function anytime we want to draw it. But, this still does not solve our problem because if you call `drawSquiggle()` multiple times, they are all drawn on top of each other. We need to find a way to tell p5 *where* to draw each, so we can draw them anywhere we want.
 
-## Multiple squiggles
+## Multiple squiggles using parameters
 
 What I eventually want to do is, when I call the function, I want to specify its location. So, instead of just calling it like:
 ```js
@@ -148,3 +148,5 @@ function draw() {
 }
 
 ```
+
+Adding parameters means that you will have control over them. We now have control over the squiggle's position -- what else do you want to control? colors? line thickness? Try adding more parameters to the function definition.
