@@ -1,5 +1,26 @@
 # Transformation
 
+The code above is good for placing the squiggles anywhere on screen, but what if we want to rotate them or scale them? We will have to use the matrix transformation.
+
+Transformations such as position, rotation and scale works differently from what you are used to from Photoshop, Illustrator. In p5, when you want to move an object, for example, you cannot just move the object. You have to move the entire coordinate system. Although the languages are a little different, here is a great tutorial on [2D Transformations](https://processing.org/tutorials/transform2d/) on 
+
+
+## Translate
+
+
+
+## Rotate
+
+
+
+## Scale
+
+
+
+## Push and Pop
+
+
+
 We will continue with the `drawSquiggle()` function we created in [the last posting](w4-function.md). Here is the code:
 
 ```js
@@ -33,19 +54,3 @@ function drawSquiggle(x, y) {
 	endShape();
 }
 ```
-
-The code above is good for placing the squiggles anywhere on screen, but what if we want to rotate them or scale them? We will have to use the matrix transformation.
-
-Transformations such as position, rotation and scale works differently from what you are used to from Photoshop, Illustrator. When you want to move an object, for example, you cannot just move the object. You are, in fact, moving the entire coordinate system.
-
-
-## Translate
-
-
-## Rotate
-
-
-## Scale
-
-
-## Push and Pop
