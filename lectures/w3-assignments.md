@@ -19,9 +19,9 @@ Create two p5js sketches -- one visualizing the word *round*, the other visualiz
 - Create two sketches -- visualizing *round* and *sharp*.
 - Set the canvas size to 500 x 500 pixels for each.
 - Use the various drawing functions. Do not use any photographic images. All graphics must be created with code. 
-- Use system variables (ex. `width`, `height`, `frameCount`, etc.) and create your own variables in your code.
+- Use system variables (ex. `width`, `height`, `windowWidth`, `frameCount`, etc.) and create your own variables in your code.
 - Use mouse and/or keyboard interactions. (ex. `mousePressed()`, `keyPressed()`, etc.)
-- Bonus points: add animation to your sketch. (hint: use variables and arithmetic)
+- Bonus points: add animation to your sketch. (hint: use variables and arithmetic such as `x = x + 1`)
 - Keep your code clean and tidy. Remember to properly *[indent](http://mrbool.com/importance-of-code-indentation/29079)*
 - Post your work on Google Drive Week 3.
 
