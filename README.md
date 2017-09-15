@@ -55,6 +55,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
 - [Function](lectures/w3-function.md)
+- [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
 - Transformations
