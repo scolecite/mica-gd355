@@ -17,7 +17,6 @@ Create two p5js sketches -- one visualizing the word *round*, the other visualiz
 
 ### Requirements
 - Create two sketches -- visualizing *round* and *sharp*.
-- Set the canvas size to 500 x 500 pixels for each.
 - Use the various drawing functions. Do not use any photographic images. All graphics must be created with code. 
 - Use system variables (ex. `width`, `height`, `windowWidth`, `frameCount`, etc.) and create your own variables in your code.
 - Use mouse and/or keyboard interactions. (ex. `mousePressed()`, `keyPressed()`, etc.)
