@@ -97,7 +97,7 @@ function mousePressed() {
 }
 ```
 
-![random and noise comparison](../../images/random-noise-comparison.png)
+![random and noise comparison](../images/random-noise-comparison.png)
 
 -----
 *Exercise: Go back to some of your old sketches and try using `random()` and `noise()` in different situations. Play with their parameters to get a feel for it.*
