@@ -15,10 +15,6 @@
 
 Create two p5js sketches -- one visualizing the word *round*, the other visualizing the word *sharp*.
 
-This exercise is really about exploration, experimentation and pushing ourselves with creating forms with code. Take enough time to explore various p5js functions. When you have something interesting, do not stop there and develop further. There is only so much we can discuss in class and the rest is up to you. Your own research and learning is crucial in learning to code. 
-
-Optional: If the assignment sounds a bit abstract, you can give yourself some context -- what if these dynamic, interactive sketches are part of a commercial campaign? What if these sketches are to be poster design?
-
 ### Requirements
 - Create two sketches -- visualizing *round* and *sharp*.
 - Set the canvas size to 500 x 500 pixels for each.
@@ -28,3 +24,7 @@ Optional: If the assignment sounds a bit abstract, you can give yourself some co
 - Bonus points: add animation to your sketch. (hint: use variables and arithmetic)
 - Keep your code clean and tidy. Remember to properly *[indent](http://mrbool.com/importance-of-code-indentation/29079)*
 - Post your work on Google Drive Week 3.
+
+This exercise is really about exploration, experimentation and pushing ourselves with creating forms with code. Take enough time to explore various p5js functions. When you have something interesting, do not stop there and develop further. There is only so much we can discuss in class and the rest is up to you. Your own research and learning is crucial in learning to code. 
+
+Optional: If the assignment sounds a bit abstract, you can give yourself some context -- what if these dynamic, interactive sketches are part of a commercial campaign? What if these sketches are to be poster design?
