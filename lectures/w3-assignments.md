@@ -6,7 +6,7 @@
   - 2.5: The random() function
   - 3.1 ~ 3.4: conditionals
   - 5.1 ~ 5.3: function
-1. Visit [the Kadenze Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-i) and watch the videos:
+2. Visit [the Kadenze Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-i) and watch the videos:
   - Session 3: Flow and Response
     
 
