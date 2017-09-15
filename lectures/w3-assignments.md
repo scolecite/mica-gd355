@@ -29,5 +29,6 @@ This exercise is really about exploration, experimentation and pushing ourselves
 
 Optional: If the assignment sounds a bit abstract, you can give yourself some context -- what if these dynamic, interactive sketches are part of a commercial campaign? What if these sketches are to be poster design?
 
-### Inspiration
+### Inspirations
 - http://www.newrafael.com/websites
+- https://beesandbombs.tumblr.com
