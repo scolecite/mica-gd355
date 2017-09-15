@@ -13,8 +13,16 @@
 
 ## Coding exercise
 
-- In a p5.js sketch, **draw your self-portrait with code.** 
-- All graphics must be created with code. Bonus: use variables and mouse interactions! 
-- Upload the entire sketch folder ( + a screenshot image of the sketch) onto Google Drive Week 2 folder.
-- Use this exercise as an opportunity to explore various drawing functions. Push yourself. Do more.
-- When you don't know how to create something, do some research online. That's how everyone learns to code - by searching on Google.
+Create two p5js sketches -- one visualizing the word *round*, the other visualizing the word *sharp*.
+
+This exercise is really about exploration, experimentation and pushing ourselves with creating forms with code. Take enough time to explore various p5js functions. When you have something interesting, do not stop there and develop further. There is only so much we can discuss in class and the rest is up to you. Optional: If the assignment sounds a bit abstract, you can give yourself some context -- what if these dynamic, interactive sketches are part of a commercial campaign? What if these sketches are to be poster design?
+
+### Requirements
+- Create two sketches -- visualizing *round* and *sharp*.
+- Set the canvas size to 500 x 500 pixels for each.
+- Use the various drawing functions. Do not use any photographic images. All graphics must be created with code. 
+- Use system variables (ex. `width`, `height`, `frameCount`, etc.) and create your own variables in your code.
+- Use mouse and/or keyboard interactions. (ex. `mousePressed()`, `keyPressed()`, etc.)
+- Bonus points: add animation to your sketch. (hint: use variables and arithmetic)
+- Keep your code clean and tidy. Remember to properly *[indent](http://mrbool.com/importance-of-code-indentation/29079)*
+- Post your work on Google Drive Week 3.
