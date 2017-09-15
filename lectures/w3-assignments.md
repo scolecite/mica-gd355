@@ -10,6 +10,7 @@
     - Session 3: Flow and Response
     
 
+
 ## Coding exercise
 
 - In a p5.js sketch, **draw your self-portrait with code.** 
