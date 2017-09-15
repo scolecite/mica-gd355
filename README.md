@@ -55,8 +55,8 @@ This course is taught in modules designed to explore various media languages rel
 - [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
 - [Function](lectures/w3-function.md)
-- Transformation (how to move, rotate and scale objects)
 
 ### Week 4
+- Transformations
 - Conditionals
 - 
