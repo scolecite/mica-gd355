@@ -58,4 +58,5 @@ This course is taught in modules designed to explore various media languages rel
 - Transformation (how to move, rotate and scale objects)
 
 ### Week 4
--
+- Conditionals
+- 
