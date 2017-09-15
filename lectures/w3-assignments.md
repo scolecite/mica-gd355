@@ -21,7 +21,7 @@ Create two p5js sketches -- one visualizing the word *round*, the other visualiz
 - Use system variables (ex. `width`, `height`, `windowWidth`, `frameCount`, etc.) and create your own variables in your code.
 - Use mouse and/or keyboard interactions. (ex. `mousePressed()`, `keyPressed()`, etc.)
 - Bonus points: add animation to your sketch. (hint: use variables and arithmetic such as `x = x + 1`)
-- Keep your code clean and tidy. Remember to properly *[indent](http://mrbool.com/importance-of-code-indentation/29079)*
+- Keep your code clean and tidy. Remember to properly *[indent](http://mrbool.com/importance-of-code-indentation/29079)* and comment.
 - Post your work on Google Drive Week 3.
 
 This exercise is really about exploration, experimentation and pushing ourselves with creating forms with code. Take enough time to explore various p5js functions. When you have something interesting, do not stop there and develop further. There is only so much we can discuss in class and the rest is up to you. Your own research and learning is crucial in learning to code. 
