@@ -264,3 +264,46 @@ function drawSquiggle(x, y, angle) {
 	pop();
 }
 ```
+
+### Squiggle party
+
+Now, it's time for a squiggle party! Below, I added one more parameter to control the scale, and now you can place as many squiggles as you want anywhere on screen.
+
+```js
+function setup() {
+	createCanvas(400, 400);
+}
+
+function draw() {
+	background(220);
+	
+	drawSquiggle(width/2, height/2, 0.5, frameCount/100);
+	drawSquiggle(50, 100, 0.2, -frameCount/10);
+	drawSquiggle(200, 80, 1.4, frameCount/40);
+	drawSquiggle(70, 300, 1.2, -frameCount/20);
+	drawSquiggle(300, 320, 0.8, frameCount/60);
+}
+
+function drawSquiggle(x, y, sc, angle) {
+	// draw squiggle
+	push();
+	translate(x, y);
+	rotate(angle);
+	scale(sc);
+	translate(-110, -50); // subtract the center coord
+	strokeWeight(3);
+	stroke(0);
+	noFill();
+	beginShape();
+	curveVertex(50, 75);
+	curveVertex(50, 75);
+	curveVertex(75, 25);
+	curveVertex(100, 75);
+	curveVertex(125, 25);
+	curveVertex(150, 75);
+	curveVertex(175, 50);
+	curveVertex(175, 50);
+	endShape();
+	pop();
+}
+```
