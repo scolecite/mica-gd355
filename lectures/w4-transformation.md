@@ -15,7 +15,7 @@ ellipse(0, 0, 20, 20);
 ```
 In the example above, the ellipse is drawn at the origin. It's just that the origin has now moved to `(20, 20)` because `translate(20, 20)`.
 
-
+### Accumulation
 ```js
 translate(20, 20);
 ellipse(0, 0, 20, 20);
@@ -23,8 +23,9 @@ ellipse(0, 0, 20, 20);
 translate(40, 40);
 ellipse(0, 0, 20, 20);
 ```
-The translation affects everything that's drawn after it, and the effect accumulates.
+The translation affects everything that's drawn after it, and the effect accumulates. Although the two ellipses use the same coordinates, they are drawn at different location because of the translations.
 
+### Control individual shapes
 ```js
 push();
 translate(20, 20);
@@ -34,10 +35,14 @@ pop();
 push();
 translate(40, 40);
 ellipse(0, 0, 20, 20);
-push();
+pop();
 ```
+If you want to have more control over translation, anytime you translate, create `push()` and `pop()` blocks to enclose the shapes you want to translate. Only the codes within the push/pop block will be affected.
 
 ## Rotate
+
+Rotation works similarly to translation. p5js can only rotate the coordinate system from its origin `(0, 0)`. So, it requires a little bit of thinking to rotate shapes from its center.
+
 ```js
 ellipse(50, 0, 20, 20);
 
@@ -47,6 +52,8 @@ ellipse(50, 0, 20, 20);
 rotate(PI/8);
 ellipse(50, 0, 20, 20);
 ```
+
+
 
 ```js
 background(255);
