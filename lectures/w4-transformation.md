@@ -1,7 +1,5 @@
 # Transformation
 
-The squiggle function we looked at is good for placing them anywhere on screen using parameters, but what if we want to rotate them or scale them? We will have to use the matrix transformation.
-
 Transformations such as position, rotation and scale works differently from what you are used to from Photoshop, Illustrator. In p5, when you want to move an object, for example, you cannot just move the object. You have to move the entire coordinate system. Although the languages are a little different, here is a great tutorial on [2D Transformations](https://processing.org/tutorials/transform2d/) for [Processing](http://processing.org).
 
 
