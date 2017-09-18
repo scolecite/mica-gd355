@@ -105,8 +105,9 @@ function draw() {
 	endShape();
   pop();
 }
-
 ```
+
+### Follow the mouse while rotating
 
 ```js
 function draw() {
@@ -116,20 +117,27 @@ function draw() {
   translate(mouseX, mouseY);
   rotate(frameCount / 100.0);
   translate(-88, -84);
-
-  bezier(60, 48, 71, 64, 9, 56, 17, 80);
-  bezier(17, 80, 24, 104, 30, 121, 44, 121);
-  bezier(44, 121, 58, 120, 68, 124, 68, 138);
-  bezier(68, 138, 68, 152, 124, 156, 124, 136);
-  bezier(124, 136, 124, 116, 130, 83, 141, 77);
-  bezier(141, 77, 153, 70, 138, 42, 127, 40);
-  bezier(127, 40, 116, 37, 95, 24, 92, 19);
-  bezier(92, 19, 90, 15, 46, 26, 60, 48);
+	
+	beginShape();
+	vertex(60, 48);
+  bezierVertex(71, 64, 9, 56, 17, 80);
+  bezierVertex(24, 104, 30, 121, 44, 121);
+  bezierVertex(58, 120, 68, 124, 68, 138);
+  bezierVertex(68, 152, 124, 156, 124, 136);
+  bezierVertex(124, 116, 130, 83, 141, 77);
+  bezierVertex(153, 70, 138, 42, 127, 40);
+  bezierVertex(116, 37, 95, 24, 92, 19);
+  bezierVertex(90, 15, 46, 26, 60, 48);
+	endShape();
+	
   pop();
 }
 ```
 
 ## Scale
+
+Scaling works the same way from the origin `(0, 0)`. So, if you want to scale from the center, then, you will first need to translate by that much. Also, notice that the stroke weight gets scaled.
+
 ```js
 background(255);
 noFill();
@@ -144,8 +152,7 @@ for (int i = 0; i < 12; i++) {
 ```
 
 
-## Push and Pop
-
+## Example
 
 
 We will continue with the `drawSquiggle()` function we created in [the last posting](w4-function.md). Here is the code:
