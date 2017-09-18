@@ -156,7 +156,7 @@ for (int i = 0; i < 12; i++) {
 ## Example
 
 
-We will continue with the `drawSquiggle()` function we created in [the last posting](w4-function.md). Here is the code:
+We will continue with the `drawSquiggle()` function we created in [the last posting](w4-function.md). Below is the code. 
 
 ```js
 function setup() {
@@ -187,5 +187,29 @@ function drawSquiggle(x, y) {
 	curveVertex(175 + x, 50 + y);
 	curveVertex(175 + x, 50 + y);
 	endShape();
+}
+```
+
+We added `x` and `y` parameter to every vertex calls, but now we know how to use `translate()`, we can simplify the code.
+
+```js
+function drawSquiggle(x, y) {
+	// draw squiggle
+	push();
+	translate(x, y);
+	strokeWeight(3);
+	stroke(0);
+	noFill();
+	beginShape();
+	curveVertex(50, 75);
+	curveVertex(50, 75);
+	curveVertex(75, 25);
+	curveVertex(100, 75);
+	curveVertex(125, 25);
+	curveVertex(150, 75);
+	curveVertex(175, 50);
+	curveVertex(175, 50);
+	endShape();
+	pop();
 }
 ```
