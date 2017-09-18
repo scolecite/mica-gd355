@@ -63,6 +63,8 @@ function mousePressed() {
 
 ### What about a key press?
 
+We can check the key presses, too!
+
 ```js
 function setup() {
   createCanvas(400, 400);
@@ -78,3 +80,54 @@ function draw() {
 	}
 }
 ```
+
+### Which key?
+
+We can check the multiple conditions with logical AND `&&`. This will return true only if the two conditions are met. There is also logical OR `||`.
+
+```js
+function setup() {
+  createCanvas(400, 400);
+  background(255);
+  noFill();
+}
+
+function draw() {
+	background(220);
+	
+	if (keyIsPressed && key == 'a') {
+		background(120, 200, 0);
+	}
+}
+```
+
+### Nesting if statements
+
+If you want to map multiple keys, nested if statements might be a better option.
+
+```js
+function setup() {
+  createCanvas(400, 400);
+  background(255);
+  noFill();
+}
+
+function draw() {
+	background(220);
+	
+	if (keyIsPressed) {
+		if (key == 'a') {
+			background(120, 200, 0);
+		} else if (key == 's') {
+			background(0, 200, 200);
+		} else if (key == 'd') {
+			background(200, 0, 150);
+		} else if (key == 'f') {
+			background(120, 200, 250);
+		}
+	}
+}
+```
+
+
+
