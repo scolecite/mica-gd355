@@ -16,7 +16,6 @@ ellipse(0, 0, 20, 20);
 In the example above, the ellipse is drawn at the origin. It's just that the origin has now moved to `(20, 20)` because `translate(20, 20)`.
 
 
-
 ```js
 translate(20, 20);
 ellipse(0, 0, 20, 20);
@@ -24,17 +23,18 @@ ellipse(0, 0, 20, 20);
 translate(40, 40);
 ellipse(0, 0, 20, 20);
 ```
+The translation affects everything that's drawn after it, and the effect accumulates.
 
 ```js
-pushMatrix();
+push();
 translate(20, 20);
 ellipse(0, 0, 20, 20);
-popMatrix();
+pop();
 
-pushMatrix();
+push();
 translate(40, 40);
 ellipse(0, 0, 20, 20);
-pushMatrix();
+push();
 ```
 
 ## Rotate
@@ -61,10 +61,10 @@ rect(0, 0, 60, 60);
 ```
 
 ```js
-void draw() {
+function draw() {
   background(255);
 
-  pushMatrix();
+  push();
   translate(200, 100);
   rotate(frameCount/100.0); 
   translate(-70, -70); 
@@ -73,9 +73,9 @@ void draw() {
   bezier(98, 80, 111, 57, 140, 60, 121, 43);
   bezier(121, 43, 102, 27, 81, 22, 53, 22);
   bezier(53, 22, 24, 21, 52, 43, 37, 66);
-  popMatrix();
+  pop();
 
-  pushMatrix();
+  push();
   translate(400, 100);
   rotate(-frameCount/10.0);
   translate(-185, -195);
@@ -85,17 +85,15 @@ void draw() {
   bezier(243, 193, 254, 164, 215, 124, 198, 124);
   bezier(198, 124, 180, 125, 125, 109, 123, 128);
   bezier(123, 128, 121, 146, 184, 194, 167, 193);
-  popMatrix();
+  pop();
 }
 ```
 
 ```js
-void draw() {
+function draw() {
   background(255);
 
-  // 원래 위치로 다시 이동시키는 대신에
-  // 마우스의 현재위치만큼 이동하여 마우스를 따라다니게 한다.
-  pushMatrix();
+  push();
   translate(mouseX, mouseY);
   rotate(frameCount / 100.0);
   translate(-88, -84);
@@ -108,7 +106,7 @@ void draw() {
   bezier(141, 77, 153, 70, 138, 42, 127, 40);
   bezier(127, 40, 116, 37, 95, 24, 92, 19);
   bezier(92, 19, 90, 15, 46, 26, 60, 48);
-  popMatrix();
+  pop();
 }
 ```
 
