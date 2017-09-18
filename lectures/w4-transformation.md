@@ -2,14 +2,19 @@
 
 The code above is good for placing the squiggles anywhere on screen, but what if we want to rotate them or scale them? We will have to use the matrix transformation.
 
-Transformations such as position, rotation and scale works differently from what you are used to from Photoshop, Illustrator. In p5, when you want to move an object, for example, you cannot just move the object. You have to move the entire coordinate system. Although the languages are a little different, here is a great tutorial on [2D Transformations](https://processing.org/tutorials/transform2d/) on 
+Transformations such as position, rotation and scale works differently from what you are used to from Photoshop, Illustrator. In p5, when you want to move an object, for example, you cannot just move the object. You have to move the entire coordinate system. Although the languages are a little different, here is a great tutorial on [2D Transformations](https://processing.org/tutorials/transform2d/) for [Processing](http://processing.org).
 
 
 ## Translate
+
+When you translate, you translate the entire coordinate system, not a single object. This is where it can get confusing. Think of a drawing on paper - you are moving the entire paper around, not the drawing itself.
+
 ```js
 translate(20, 20);
 ellipse(0, 0, 20, 20);
 ```
+
+
 
 ```js
 translate(20, 20);
