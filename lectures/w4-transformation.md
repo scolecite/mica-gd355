@@ -74,29 +74,35 @@ If you have a complex shape, you will first need to determine what point you wan
 ```js
 function draw() {
   background(255);
-  noFill();
+	noFill();
 
   push();
   translate(100, 100);
   rotate(frameCount/100.0); 
   translate(-70, -70); 
-  bezier(37, 66, 16, 98, 53, 144, 72, 133);
-  bezier(72, 133, 90, 121, 86, 103, 98, 80);
-  bezier(98, 80, 111, 57, 140, 60, 121, 43);
-  bezier(121, 43, 102, 27, 81, 22, 53, 22);
-  bezier(53, 22, 24, 21, 52, 43, 37, 66);
+	beginShape();
+	vertex(37, 66);
+	bezierVertex(16, 98, 53, 144, 72, 133);
+	bezierVertex(90, 121, 86, 103, 98, 80);
+	bezierVertex(111, 57, 140, 60, 121, 43);
+	bezierVertex(102, 27, 81, 22, 53, 22);
+	bezierVertex(24, 21, 52, 43, 37, 66);
+	endShape();
   pop();
 
   push();
   translate(200, 100);
   rotate(-frameCount/10.0);
   translate(-185, -195);
-  bezier(167, 193, 131, 190, 113, 189, 114, 216);
-  bezier(114, 216, 114, 243, 160, 270, 185, 257);
-  bezier(185, 257, 209, 244, 232, 222, 243, 193);
-  bezier(243, 193, 254, 164, 215, 124, 198, 124);
-  bezier(198, 124, 180, 125, 125, 109, 123, 128);
-  bezier(123, 128, 121, 146, 184, 194, 167, 193);
+	beginShape();
+	vertex(167, 193);
+	bezierVertex(131, 190, 113, 189, 114, 216);
+	bezierVertex(114, 243, 160, 270, 185, 257);
+	bezierVertex(209, 244, 232, 222, 243, 193);
+	bezierVertex(254, 164, 215, 124, 198, 124);
+	bezierVertex(180, 125, 125, 109, 123, 128);
+	bezierVertex(121, 146, 184, 194, 167, 193);
+	endShape();
   pop();
 }
 ```
