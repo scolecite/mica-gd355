@@ -112,26 +112,26 @@ function draw() {
 
 ```js
 function draw() {
-  background(255);
+	background(255);
 
-  push();
-  translate(mouseX, mouseY);
-  rotate(frameCount / 100.0);
-  translate(-88, -84);
-	
+	push();
+	translate(mouseX, mouseY);
+	rotate(frameCount / 100.0);
+	translate(-88, -84);
+
 	beginShape();
 	vertex(60, 48);
-  bezierVertex(71, 64, 9, 56, 17, 80);
-  bezierVertex(24, 104, 30, 121, 44, 121);
-  bezierVertex(58, 120, 68, 124, 68, 138);
-  bezierVertex(68, 152, 124, 156, 124, 136);
-  bezierVertex(124, 116, 130, 83, 141, 77);
-  bezierVertex(153, 70, 138, 42, 127, 40);
-  bezierVertex(116, 37, 95, 24, 92, 19);
-  bezierVertex(90, 15, 46, 26, 60, 48);
+	bezierVertex(71, 64, 9, 56, 17, 80);
+	bezierVertex(24, 104, 30, 121, 44, 121);
+	bezierVertex(58, 120, 68, 124, 68, 138);
+	bezierVertex(68, 152, 124, 156, 124, 136);
+	bezierVertex(124, 116, 130, 83, 141, 77);
+	bezierVertex(153, 70, 138, 42, 127, 40);
+	bezierVertex(116, 37, 95, 24, 92, 19);
+	bezierVertex(90, 15, 46, 26, 60, 48);
 	endShape();
-	
-  pop();
+
+	pop();
 }
 ```
 
