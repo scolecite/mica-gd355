@@ -37,3 +37,26 @@ function mousePressed() {
 
 With `mousePressed()` function, you cannot drag and create brush marks because it will only run once the mouse is pressed unlike `mouseIsPressed`, which will keep tracking the mouse state every frame.
 
+### Combine mouseIsPressed and mousePressed()
+
+We can combine both `mousePressed()` function and `mouseIsPressed` boolean variable in the same program.
+
+```js
+function setup() {
+	  createCanvas(400, 400);
+	  background(255);
+	  noFill();
+}
+
+function draw() {
+ 	stroke(200);
+	if (mouseIsPressed) {
+		ellipse(mouseX, mouseY, 20, 20);
+	}
+}
+
+function mousePressed() {
+	background(255);
+}
+```
+
