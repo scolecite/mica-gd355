@@ -60,3 +60,21 @@ function mousePressed() {
 }
 ```
 
+
+### What about a key press?
+
+```js
+function setup() {
+  createCanvas(400, 400);
+  background(255);
+  noFill();
+}
+
+function draw() {
+	background(220);
+	
+	if (keyIsPressed) {
+		background(120, 200, 0);
+	}
+}
+```
