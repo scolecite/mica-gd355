@@ -39,7 +39,7 @@ If you want to have more control over translation, anytime you translate, create
 
 ## Rotate
 
-Rotation works similarly to translation. p5js can only rotate the coordinate system from its origin `(0, 0)`. So, it requires a little bit of thinking to rotate shapes from its center.
+Rotation works similarly to translation. p5js can only rotate the coordinate system from its origin `(0, 0)`. 
 
 ```js
 rect(50, 0, 20, 20);
@@ -51,9 +51,11 @@ rotate(PI/8);
 rect(50, 0, 20, 20);
 ```
 
+Also, keep in mind that the parameter `rotate()` function takes is in radians, not degrees. For example, if you want to rotate by 90 degrees, you will write `rotate(PI/2)`. If the radians are confusing to you, you can first convert to the degrees before rotating as in `rotate( degrees(PI/2) )`. It will do the conversion for you.
+
 ### Rotate from center of shape
 
-First, think about where to place the shape, and then, translate by that much. Draw the shape at the origin `(0, 0)` as that's the only coordinate that p5 canvas can be rotated from.
+p5.js can only rotate from the origin `(0, 0)`, so it requires a little bit of thinking to rotate shapes from their own center. First, think about where to place the shape, and then, translate by that much. Draw the shape at the origin `(0, 0)` as that's the only coordinate that p5 canvas can be rotated from.
 
 ```js
 background(255);
@@ -67,12 +69,15 @@ rotate(PI/4); // rotate the coordinate system
 rect(0, 0, 60, 60); // draw at the origin
 ```
 
+If you have a complex shape, you will first need to determine what point you want to use as its center. It helps to first draw shapes in Illustrator using the Info panel, that way, you will know the exact coordinates.
+
 ```js
 function draw() {
   background(255);
+  noFill();
 
   push();
-  translate(200, 100);
+  translate(100, 100);
   rotate(frameCount/100.0); 
   translate(-70, -70); 
   bezier(37, 66, 16, 98, 53, 144, 72, 133);
@@ -83,7 +88,7 @@ function draw() {
   pop();
 
   push();
-  translate(400, 100);
+  translate(200, 100);
   rotate(-frameCount/10.0);
   translate(-185, -195);
   bezier(167, 193, 131, 190, 113, 189, 114, 216);
