@@ -13,6 +13,7 @@ When you translate, you translate the entire coordinate system, not a single obj
 translate(20, 20);
 ellipse(0, 0, 20, 20);
 ```
+In the example above, the ellipse is drawn at the origin. It's just that the origin has now moved to `(20, 20)` because `translate(20, 20)`.
 
 
 
