@@ -157,6 +157,52 @@ function mousePressed() {
 }
 ```
 
+```js
+var scene = 0;
+
+function setup() {
+	createCanvas(400, 400);
+}
+
+function draw() {
+	background(220);
+	if (scene == 0) {
+		sceneZero();
+	} else if (scene == 1) {
+		sceneOne();
+	} else if (scene == 2) {
+		sceneTwo();
+	} else {
+		scene = 0;
+	}
+}
+
+function keyPressed() {
+	if (key == ' ') {
+		scene++;
+	}
+}
+
+function sceneZero() {
+	fill(50, 200, 100);
+	rect(0, 0, width, height);
+}
+
+function sceneOne() {
+	fill(200);
+	rect(0, 0, width, height);
+	line(0, 0, width, height);
+}
+
+function sceneTwo() {
+	fill(0);
+	rect(0, 0, width, height);
+	fill(255);
+	ellipse(width/2, height/2, 300, 300);
+}
+```
+
+
 
 ## Further learning
 - [Processing interactivity tutorial](https://processing.org/tutorials/interactivity/)
