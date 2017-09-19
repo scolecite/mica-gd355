@@ -129,6 +129,13 @@ function draw() {
 }
 ```
 
+## Create your own boolean variable
+
+```js
+
+```
+
+
 ## Further learning
 - [Processing interactivity tutorial](https://processing.org/tutorials/interactivity/)
 - [p5.js interactivity example](https://p5js.org/examples/hello-p5-interactivity-1.html)
