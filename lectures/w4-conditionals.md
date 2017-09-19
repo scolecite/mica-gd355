@@ -132,7 +132,29 @@ function draw() {
 ## Create your own boolean variable
 
 ```js
+var active = false;
 
+function setup() {
+  createCanvas(400, 400);
+	noStroke();
+	rectMode(CENTER);
+}
+
+function draw() {
+	if (active == true) {
+		fill(200, 0, 0, 128);
+		ellipse(mouseX, mouseY, 50, 50);
+	} else {
+		fill(120, 128);
+		rect(mouseX, mouseY, 50, 50);
+	}
+}
+
+function mousePressed() {
+	// flip the value.
+	// true becomes false, false becomes true.
+	active = !active;
+}
 ```
 
 
