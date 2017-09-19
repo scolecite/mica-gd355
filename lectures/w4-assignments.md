@@ -17,3 +17,7 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
 - use if statements to create a narrative
 - 10 different scenes
 - add visuals, images, audio, etc.
+
+- strange drawing software
+
+- https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
