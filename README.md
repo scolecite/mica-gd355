@@ -59,6 +59,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 4
 - [Function](lectures/w4-function.md)
 - [Transformations](lectures/w4-transformation.md)
-- Conditionals
+- [Conditionals](lectures/w4-conditionals.md)
+- Assignments
 
 
