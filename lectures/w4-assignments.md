@@ -13,3 +13,7 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
     - Session 5: Synthesis A, Nonlinear Narrative
 
 ## Main assignment
+
+- use if statements to create a narrative
+- 10 different scenes
+- add visuals, images, audio, etc.
