@@ -157,6 +157,8 @@ function mousePressed() {
 }
 ```
 
+## Compare the variable values
+
 ```js
 var scene = 0;
 
