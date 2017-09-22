@@ -65,5 +65,6 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 5
 - Loop
+- Transformations review
 
 
