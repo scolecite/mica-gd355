@@ -24,6 +24,7 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
 - Inspirations: 
     - https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
     - https://www.instagram.com/zach.lieberman/
+    - [Rhonda](http://rhondaforever.com/)
     - http://creativeapplications.net
     
     
