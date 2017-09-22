@@ -146,7 +146,7 @@ noFill();
 translate(width/2, height/2);
 ellipse(0, 0, 50, 50);
 
-for (int i = 0; i < 12; i++) {
+for (var i = 0; i < 12; i++) {
   scale(1.2);
   ellipse(0, 0, 50, 50);
 }
