@@ -27,4 +27,4 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
     - 
     
     
-*Many answers for your questions or problems are already on the Internet. It's just a matter of where to visit and how to find them. Try using different keywords combination when searching on Google. Download other people's code and try to understand how it's written. Try these websites to look for examples - http://github.com , http://codepen.io , http://processing.org , http://forum.processing.org*
+*Many answers for your questions or problems are already on the Internet. It's just a matter of where to visit and how to find them. Try using different keywords combination when searching on Google. Download other people's code and try to understand how it's written. Try these websites to look for examples - http://github.com , http://codepen.io , http://processing.org , http://forum.processing.org , http://youtube.com *
