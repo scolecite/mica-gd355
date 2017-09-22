@@ -1,8 +1,4 @@
-
-
-
-## Reading
-Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-design-systems/) and write a short summary (1-2 paragraphs) + your response and post it on Google Drive.
+# Week 4 assignments
 
 ## Video
 - Visit this [Youtube playlist](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5) and watch the videos:
