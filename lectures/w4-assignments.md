@@ -12,12 +12,12 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
 - Visit [the Kadenze Course](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-i) and watch the videos:
     - Session 5: Synthesis A, Nonlinear Narrative
 
-## Main assignment
+## Main assignment - Weird Drawing Software
 
-- use if statements to create a narrative
-- 10 different scenes
-- add visuals, images, audio, etc.
+- This will be a 2 week long assignment.
+- Create a "weird" drawing software.
+- By weird I mean, something we haven't seen before in popular tools such as Photoshop or Illustrator.
+- Suggest new ways of digital drawing. 
 
-- strange drawing software
 
-- https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
+- Inspirations: https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
