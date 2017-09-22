@@ -101,7 +101,7 @@ function draw() {
 }
 ```
 
-### Nesting if statements
+### Nested if statements
 
 If you want to map multiple keys, nested if statements might be a better option.
 
