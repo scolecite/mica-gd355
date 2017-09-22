@@ -57,7 +57,13 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
+- [Having problems with your code?](lectures/w4-problem-solving.md)
 - [Function](lectures/w4-function.md)
 - [Transformations](lectures/w4-transformation.md)
 - [Conditionals](lectures/w4-conditionals.md)
+- [Assignments](lectures/w4-assignments.md)
+
+### Week 5
+- Loop
+
 
