@@ -21,4 +21,10 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
 - Do not replicate what we can already do in PS, AI, etc.
 - This week, you will create many small sketches. Create **at least 10 different p5js sketches**. The more the merrier. Try as many different ideas as you can. Keep them experimental. **Include screenshots/screen recordings** of your drawings for each software.
 - Next week, you will share your progress with classmates, and edit/refine the p5 sketches into one drawing software.
-- Inspirations: https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
+- Inspirations: 
+    - https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
+    - https://www.instagram.com/zach.lieberman/
+    - 
+    
+    
+*Many answers for your questions or problems are already on the Internet. It's just a matter of where to visit and how to find them. Try using different keywords combination when searching on Google. Download other people's code and try to understand how it's written. Try these websites to look for examples - http://github.com , http://codepen.io , http://processing.org , http://forum.processing.org*
