@@ -1,5 +1,8 @@
 # Week 4 assignments
 
+## Read
+Read the [Transformation](w4-transformation.md) posting.
+
 ## Video
 - Visit this [Youtube playlist](https://www.youtube.com/watch?v=RnS0YNuLfQQ&list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA&index=5) and watch the videos:
     - 4.1 ~ 4.2: loops
