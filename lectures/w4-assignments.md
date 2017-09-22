@@ -16,7 +16,7 @@ Read [this article](https://runemadsen.com/blog/on-meta-design-and-algorithmic-d
 
 - This will be a 2 week long assignment.
 - Create **a "weird" drawing software**.
-- By weird I mean, something we haven't seen before in popular tools such as Photoshop or Illustrator, something that challenges us to look at digital drawing tools in a new and different way.
+- By weird, I mean something we haven't seen before in popular tools such as Photoshop or Illustrator, something that challenges us to look at digital drawing tools in a new and different way.
 - This week, you will create many small sketches. Create **at least 10 different p5js sketches**. (The more the merrier.)
 - Next week, you will share your progress with classmates, and edit/refine into one drawing software.
 - Inspirations: https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
