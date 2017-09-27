@@ -67,7 +67,8 @@ This course is taught in modules designed to explore various media languages rel
 - Loop
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
-- How to export images
-- How to export SVG (vector graphics)
+- Export
+  - How to export images
+  - How to export SVG (vector graphics)
 
 
