@@ -1,5 +1,5 @@
 # How to export to SVG
-SVG is a vector file format just like AI or EPS, and you can open it in Illustrator and easily save as AI or PDF. p5.js is designed to work best within the browser and there is not yet a way to export to vector formats. We will rely on an external library to add this feature into our p5 sketches.
+SVG is a vector file format just like AI or EPS, and you can open it in Illustrator and easily save as AI or PDF. p5.js is designed to work best within the browser and there is not yet an easy way to export to vector formats. We will rely on an external library to add this feature into our p5 sketches. *This is not very reliable and it may not in some cases. For reliable vector exports, consider converting your sketch into Processing.*
 
 ## Download library
 Download [p5.SVG](https://github.com/zenozeng/p5.js-svg/).
