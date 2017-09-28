@@ -68,7 +68,7 @@ This course is taught in modules designed to explore various media languages rel
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
 - Export
-  - How to export images
+  - [How to export images](lectures/w5-image-export.md)
   - How to export SVG (vector graphics)
 
 
