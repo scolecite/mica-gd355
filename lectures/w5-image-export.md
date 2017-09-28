@@ -11,7 +11,7 @@ Use these functions to save a single frame.
 - [`saveCanvas()`](http://p5js.org/reference/#/p5/saveCanvas)
 
 ## Screenshot
-You can always capture a simple screenshot. On Mac, press CMD + Shift + 4.
+You can always capture a simple screenshot. On Mac, press CMD + Shift + 3 (whole screen) or CMD + Shift + 4 (selection).
 
 -----
 
