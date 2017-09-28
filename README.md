@@ -69,6 +69,6 @@ This course is taught in modules designed to explore various media languages rel
 - Transformations review
 - Export
   - [How to export images](lectures/w5-image-export.md)
-  - [How to export SVG](lectures/w5-vector-export.md) (vector graphics)
+  - [How to export SVG](lectures/w5-svg-export.md) (vector graphics)
 
 
