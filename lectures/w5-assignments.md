@@ -13,4 +13,5 @@ Based on the feedback you got from the classmates, edit and refine your code and
 
 ### Deliverables
 - Your working code: I should be able to run it on my machine. Test before you submit. No errors.
-- Five different screenshots of the drawings created using your software. Ask people around you to try it out. You will be surprised (both in good and bad ways) at how others use.
+- Five different screenshots of the drawings created using your software. Ask people around you to try it out. You will be surprised (both in good and bad ways) at how others use it.
+
