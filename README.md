@@ -66,7 +66,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 5
 - [Assignments review](lectures/w5-review.md)
 - Loop basics
-  - [for loop challenge](images/w5-challenge.png)
+  - [for loop challenge](lectures/w5-challenge.md)
 - Transformations review
 - Export
   - [How to export images](lectures/w5-image-export.md)
