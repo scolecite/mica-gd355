@@ -12,4 +12,4 @@ Follow these steps:
 - name your images this way. If you are Emily and you tried John’s sketch-5,
     `john-5-emily.png`
 - post all the images to Google Drive
-- print the images on letter-sized paper.
+- print the images on letter-sized paper (horizontally).
