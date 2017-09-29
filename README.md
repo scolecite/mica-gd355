@@ -64,6 +64,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
+- [Assignments review](lectures/w5-review.md)
 - Loop
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
