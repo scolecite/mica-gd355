@@ -67,7 +67,6 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments review](lectures/w5-review.md)
 - Loop basics
   - [for loop challenge](lectures/w5-challenge.md)
-- Transformations review
 - Export
   - [How to export images](lectures/w5-image-export.md)
   - [How to export SVG](lectures/w5-svg-export.md) (vector graphics)
@@ -76,4 +75,4 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 6
 - Loop continued
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
-- 
+- Transformations review
