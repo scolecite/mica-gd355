@@ -80,4 +80,6 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
+- Object
+- Array
 
