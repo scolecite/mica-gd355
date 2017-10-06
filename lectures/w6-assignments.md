@@ -15,5 +15,6 @@ Create **two pattern sketches**:
   ```
 
 - Create one radial pattern using transformations such as `translate()`, `scale()` and `rotate()`.
+- Be experimental. Be exploratory. Be flexible.
 - Post both sketch codes on Google Drive along with screenshots.
 - *Bonus points: Add animation and interactions to make the patterns dynamic. Give users control to customize them. Add user interface elements to make them more usable to non-coders.*
