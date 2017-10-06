@@ -76,6 +76,7 @@ This course is taught in modules designed to explore various media languages rel
 - Loop continued
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
+- [Annyang](https://www.talater.com/annyang/): Speech recognition JS library
 - [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
