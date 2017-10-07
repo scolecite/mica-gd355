@@ -16,7 +16,7 @@ var ball = {
   size: 20
 };
 ```
-Be careful with the placement of commas, colons and semi-colons. Then, we can access each property with the dot notation:
+Then, we can access each property with the dot notation. Be careful that you do not make a typing error with the placement of commas, colons and semi-colons:
 
 ```js
 ellipse(ball.x, ball.y, ball.size, ball.size);
