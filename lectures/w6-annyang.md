@@ -6,6 +6,8 @@ Add the line below to `<head>` in `index.html` first.
 <script src="//cdnjs.cloudflare.com/ajax/libs/annyang/2.6.0/annyang.min.js"></script>
 ```
 
+Copy the code below to `sketch.js`.
+
 ```js
 var sceneNum = 0;
 var bgCol = 'white';
