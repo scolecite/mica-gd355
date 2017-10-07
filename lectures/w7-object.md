@@ -106,4 +106,4 @@ function Ball(x, y, sz) {
 }
 ```
 
-*Exercise: Create a constructor for drawing faces. First, think about what properties and methods you will need. Then, without thinking about an object, just draw a face with all the necessary elements. Then, think about how you can generalize so that it can create a variety of faces. My code example is [here](http://codepen.io/cdaein/pen/pebGGw?editors=0010).*
+*Exercise: Create a constructor for drawing faces. First, think about what properties and methods you will need. (ex. skin color, hair color, eye size, etc.) Then, without thinking about an object, just draw a face with all the necessary elements. Then, think about how you can generalize so that it can create a variety of faces. My code example is [here](http://codepen.io/cdaein/pen/pebGGw?editors=0010).*
