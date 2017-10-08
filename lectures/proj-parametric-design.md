@@ -31,7 +31,7 @@
 - map data to visual
 - test (w/new data)
 - adjust the rules, range (make it adaptable, flexible). set the boundaries.
-- repeat and iterate. curate.
+- repeat and iterate. curate. (doesn't have to be all automatic)
 - export
 
 
