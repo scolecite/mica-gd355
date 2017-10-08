@@ -25,10 +25,14 @@
 
 -----
 
-- build a visual system using parameters
+- build a visual system using parameters (clear and obvious, abstract, generate from)
 - map data to visual
 - test (w/new data)
 - adjust the rules, range (make it adaptable, flexible)
 - repeat and iterate.
 - export
 
+
+
+## Examples
+- 
