@@ -1,6 +1,7 @@
 # Resources
 
 - [Mozilla Developer Network](https://developer.mozilla.org): Best web reference for HTML/CSS
+- [Awesome creative coding](https://github.com/terkelg/awesome-creative-coding)
 
 
 
