@@ -6,3 +6,18 @@
 - MIT Media Lab logo
 - Museum in brazil? spain?
 - 
+
+
+- Choose a company and create unique business cards for its employees.
+- Choose an event and create unique name tags for the participants.
+- 
+
+
+- collecting data (google form, dummy data)
+- parsing data
+- build a visual system using parameters
+- map data to visuals
+- test
+- adjust the rules, range
+- export
+
