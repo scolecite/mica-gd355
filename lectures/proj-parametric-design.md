@@ -26,8 +26,9 @@
 -----
 
 - build a visual system using parameters
-- map data to visuals
+- map data to visual
 - test
 - adjust the rules, range
+- repeat and iterate.
 - export
 
