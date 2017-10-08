@@ -54,6 +54,7 @@ Give each item a visual identity through a series of set questions/data.
 - text parsing
 
 
+Notes:
 - the amount of work/data to process: only possible with computational design
 - unique questions for individuals (favorite colors, etc.)
 - interpreting data (type, color, form, length => all become parameters)
