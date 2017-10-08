@@ -15,7 +15,8 @@
 
 - research (company/event, people, example, visuals)
 - decide what data to collect (personal info, momentary info, )
-- develop concept. how to visualize. how to connect to the theme/identity.
+- develop concept. 
+- how to visualize. how to connect to the theme/identity. (figurative, abstract)
 
 -----
 
