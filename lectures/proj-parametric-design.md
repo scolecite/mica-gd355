@@ -10,6 +10,8 @@
 
 - Choose a company and create unique business cards for its employees.
 - Choose an event and create unique name tags for the participants.
+- Design 50 unique book covers using generative design.
+- 
 
 -----
 
