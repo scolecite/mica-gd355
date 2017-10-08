@@ -34,6 +34,7 @@
 
 
 ## Examples
+- [Automation threatens to make graphic designers obsolete](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)
 - eye magazine covers?
 - New York Public Library book covers
 - Korean name tag example
