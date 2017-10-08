@@ -13,8 +13,13 @@
 - 
 
 
-- collecting data (google form, dummy data)
-- parsing data
+- research (company/event, people, example, visuals)
+- decide what data to collect (personal info, momentary info, )
+- develop concept. how to visualize. how to connect to the theme/identity.
+
+- collect data (google form, dummy data)
+- parse data
+
 - build a visual system using parameters
 - map data to visuals
 - test
