@@ -35,8 +35,9 @@
 
 ## Examples
 - [Automation threatens to make graphic designers obsolete](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)
-- eye magazine covers?
-- New York Public Library book covers
+- [MIT Media Lab identity](http://eroonkang.com/projects/MIT-Media-Lab-Identity/)
+- [Generative eBook covers for New York Public Library](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers)
+
 - Korean name tag example
-- MIT Media Lab logo
+
 - Museum in brazil? spain?
