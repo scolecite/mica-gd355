@@ -1,3 +1,4 @@
+# Project: Design System
 
 - data must be used to "seed" design.
 - What is your role as a designer in this? working with massive amount of data. hand-crafting each and every one?
@@ -9,7 +10,9 @@ Choose one of the options below for your project:
 - Choose a company and create unique business cards for its 50 employees.
 - Choose an event and create unique name tags for the 50 participants.
 - Design unique book covers for the 50 books from a publisher. 
-- 
+-
+
+Give each item a visual identity through a series of set questions/data.
 
 -----
 
