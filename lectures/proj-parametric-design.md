@@ -1,10 +1,5 @@
 
-
-- eye magazine covers?
-- New York Public Library book covers
-- Korean name tag example
-- MIT Media Lab logo
-- Museum in brazil? spain?
+- data must be used to "seed" design.
 
 -----
 
@@ -37,4 +32,8 @@
 
 
 ## Examples
-- 
+- eye magazine covers?
+- New York Public Library book covers
+- Korean name tag example
+- MIT Media Lab logo
+- Museum in brazil? spain?
