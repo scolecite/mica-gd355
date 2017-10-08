@@ -30,8 +30,8 @@
 - build a visual system using parameters (clear and obvious, abstract, generate from)
 - map data to visual
 - test (w/new data)
-- adjust the rules, range (make it adaptable, flexible)
-- repeat and iterate.
+- adjust the rules, range (make it adaptable, flexible). set the boundaries.
+- repeat and iterate. curate.
 - export
 
 
