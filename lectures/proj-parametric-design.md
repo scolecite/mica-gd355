@@ -5,9 +5,10 @@
 
 -----
 
-- Choose a company and create unique business cards for its employees.
-- Choose an event and create unique name tags for the participants.
-- Design 50 unique book covers using generative design.
+Choose one of the options below for your project:
+- Choose a company and create unique business cards for its 50 employees.
+- Choose an event and create unique name tags for the 50 participants.
+- Design unique book covers for the 50 books from a publisher. 
 - 
 
 -----
@@ -29,6 +30,7 @@
 - test (w/new data)
 - adjust the rules, range (make it adaptable, flexible). set the boundaries.
 - repeat and iterate. curate. (doesn't have to be all automatic)
+- scale (for 100, 200, future possibility)
 - export
 
 
