@@ -1,5 +1,6 @@
 
 - data must be used to "seed" design.
+- What is your role as a designer in this? working with massive amount of data. hand-crafting each and every one?
 
 -----
 
