@@ -5,12 +5,12 @@ We will create a design system that is controlled by the parameters you define. 
 You will work with data you collect yourself or find online, and map the data to visual forms. 
 
 Choose one of the options below for your project:
-- Choose a company and create unique business cards for its 50 employees.
-- Choose an event and create unique name tags for the 50 participants.
-- Design unique book covers for the 50 books. 
+- Choose a company and create unique business cards for its 30 employees.
+- Choose an event and create unique name tags for the 30 participants.
+- Design unique book covers for the 30 books. 
 - You can suggest other options...
 
-To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). We will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. We will start with 50 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
+To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). We will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. We will start with 30 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
 
 - visualizing data (aesthetic and functional)
 - context: where it will be used (web? print?)
