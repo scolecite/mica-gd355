@@ -34,7 +34,7 @@ Collect data - Give each item a visual identity through a series of set question
 - test (w/new data)
 - adjust the rules, range (make it adaptable, flexible). set the boundaries.
 - repeat and iterate. curate. (doesn't have to be all automatic)
-- scale (for 100, 200, future possibility)
+- scalable for the future (different dataset in the future)
 - export
 
 
