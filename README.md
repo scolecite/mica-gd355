@@ -85,5 +85,5 @@ This course is taught in modules designed to explore various media languages rel
 - [Array](lectures/w7-array.md)
 
 ### Week 8
-- Working with CSV data
+
 
