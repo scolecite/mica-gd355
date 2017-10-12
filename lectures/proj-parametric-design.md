@@ -21,19 +21,19 @@ Collect data - Give each item a visual identity through a series of set question
 ### Step 1
 - research (company/event, people, example, visuals)
 - decide what data to collect (personal info, momentary info, )
-- develop concept. 
-- how to visualize. how to connect to the theme/identity. (figurative, abstract)
+- develop visual concepts. 
+- how the parameters and visuals relate to the theme/identity. (figurative, abstract)
 
 ### Step 2
 - collect data (google form, dummy data)
-- parse data
+- parse data into js objects
 
 ### Step 3
-- build a visual system using parameters (clear and obvious, abstract, generate from)
+- build a visual system using parameters (clear or abstract)
 - map data to visual
 - test (w/new data)
-- adjust the rules, range (make it adaptable, flexible). set the boundaries.
-- repeat and iterate. curate. (doesn't have to be all automatic)
+- adjust the rules and ranges (make it adaptable, flexible. set the boundaries).
+- repeat and iterate. curate.
 - scalable for the future (different dataset in the future)
 - export
 
@@ -66,13 +66,12 @@ Notes:
 - tools: p5.js(web) + CSS, Processing(print), Sketch app (web/mobile)
 
 
-Challenges:
+## Challenges
 - strong visual concept
-- consistency; continuity of the visual design
-- represent the company/event's identity through the system
-- design/coding iterations
+- consistency, continuity of the visual design
+- represent the company/event's identity through the visual system
+- iterate through design/coding
 - flexibility; adaptability for exceptional cases (ex. very long name, covering the entire range (age, etc.))
-- documentation (process)
-- documentation (code & project for later use and collaboration and editing)
+- documentation (process & result)
 
 
