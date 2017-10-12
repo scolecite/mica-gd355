@@ -1,5 +1,8 @@
 # Project: Parametric Design
 
+We will create a design system that is controlled by the parameters you feed into. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer.
+
+
 - data must be used to "seed" design.
 - What is your role as a designer in this? working with massive amount of data. hand-crafting each and every one?
 - Data change. Design must change, too.
@@ -10,9 +13,9 @@ Choose one of the options below for your project:
 - Choose a company and create unique business cards for its 50 employees.
 - Choose an event and create unique name tags for the 50 participants.
 - Design unique book covers for the 50 books. 
--
+- 
 
-Give each item a visual identity through a series of set questions/data.
+Collect data - Give each item a visual identity through a series of set questions/data.
 
 
 
