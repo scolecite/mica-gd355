@@ -1,6 +1,6 @@
 # Project: Parametric Design
 
-We will create a design system that is controlled by the parameters you feed into. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer. How do you work with the large data set? How do you create a more personalized/customized experience? Will you hand-craft each and every variation? Will you automate and randomize everything? Who makes the decisions for your design? How do you maintain your design system?
+We will create a design system that is controlled by the parameters you feed into. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer. How do you work with the large amount of data? How do you create a more personalized/customized experience? Will you hand-craft each and every variation? Will you automate and randomize everything? Who makes the decisions for your design? How do you maintain your design system? Remember that we are not making decisions for every single design variations. We are designing *a system*.
 
 You will work with data you collect or find online, and map the data to visual forms. 
 
@@ -10,7 +10,19 @@ Choose one of the options below for your project:
 - Design unique book covers for the 50 books. 
 - You can suggest other options...
 
-Collect data - Give each item a visual identity through a series of set questions/data.
+To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). We will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. We will start with 50 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
+
+- visualizing data (aesthetic and functional)
+- context: where it will be used (web? print?)
+
+
+## Challenges
+- strong visual concept
+- consistency, continuity of the visual design
+- represent the company/event's identity through the visual system
+- iterate through design/coding
+- flexibility; adaptability for exceptional cases (ex. very long name, covering the entire range (age, etc.))
+- documentation (process & result)
 
 
 
@@ -20,6 +32,7 @@ Collect data - Give each item a visual identity through a series of set question
 - research (company/event, people, example, visuals)
 - decide what data to collect (personal info, momentary info, )
 - develop visual concepts. 
+- create mockups (PS, AI, Sketch, etc.)
 - how the parameters and visuals relate to the theme/identity. (figurative, abstract)
 
 ### Step 2
@@ -53,23 +66,5 @@ Collect data - Give each item a visual identity through a series of set question
 - text parsing
 
 
-Notes:
-- the amount of work/data to process: only possible with computational design
-- unique questions for individuals (favorite colors, etc.)
-- interpreting data (type, color, form, length => all become parameters)
-- combine data + random (some part)
-- visualizing data (aesthetic and functional)
-- should work with any new data (not just the initial 50 people)
-- context: where it will be used (web? print?)
-- tools: p5.js(web) + CSS, Processing(print), Sketch app (web/mobile)
-
-
-## Challenges
-- strong visual concept
-- consistency, continuity of the visual design
-- represent the company/event's identity through the visual system
-- iterate through design/coding
-- flexibility; adaptability for exceptional cases (ex. very long name, covering the entire range (age, etc.))
-- documentation (process & result)
 
 
