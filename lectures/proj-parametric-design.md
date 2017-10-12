@@ -1,6 +1,6 @@
 # Project: Parametric Design
 
-We will create a design system that is controlled by the parameters you feed into. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer. How do you work with the large data you have? Will you hand-craft each and every variation? 
+We will create a design system that is controlled by the parameters you feed into. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer. How do you work with the large data you have? How do you create a more personalized/customized experience? Will you hand-craft each and every variation? 
 - data must be used to "seed" design.
 - Data change. Design must change, too.
 
