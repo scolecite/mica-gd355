@@ -8,7 +8,7 @@ Choose one of the options below for your project:
 - Choose a company and create unique business cards for its 50 employees.
 - Choose an event and create unique name tags for the 50 participants.
 - Design unique book covers for the 50 books. 
-- 
+- You can suggest other options...
 
 Collect data - Give each item a visual identity through a series of set questions/data.
 
