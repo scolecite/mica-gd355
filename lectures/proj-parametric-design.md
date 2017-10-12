@@ -12,16 +12,16 @@ Choose one of the options below for your project:
 
 To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). We will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. We will start with 30 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
 
-- visualizing data (aesthetic and functional)
-- context: where it will be used (web? print?)
+Your system should be both functional and aesthetically pleasing.
 
 
 ## Challenges
 - strong visual concept
 - consistency, continuity of the visual design
-- represent the company/event's identity through the visual system
+- represent the company/participant's identity through the visual system
 - iterate through design/coding
 - flexibility; adaptability for exceptional cases (ex. very long name, covering the entire range (age, etc.))
+- understand the context - where and how will it be used?
 - documentation (process & result)
 
 
@@ -29,8 +29,8 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 ## Process
 
 ### Step 1
-- research (company/event, people, example, visuals)
-- decide what data to collect (personal info, momentary info, )
+- research (company/event, people, inspirations, references, examples, codes, visuals)
+- decide what data to collect (personal info, momentary info, etc.)
 - develop visual concepts. 
 - create mockups (PS, AI, Sketch, etc.)
 - how the parameters and visuals relate to the theme/identity. (figurative, abstract)
@@ -42,7 +42,7 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 ### Step 3
 - build a visual system using parameters (clear or abstract)
 - map data to visual
-- test (w/new data)
+- test with different data. find the extremes.
 - adjust the rules and ranges (make it adaptable, flexible. set the boundaries).
 - repeat and iterate. curate.
 - scalable for the future (different dataset in the future)
@@ -55,16 +55,6 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 - [Generative Design: Redefining the Designer](https://www.commarts.com/columns/generative-design-redefining-the-designer)
 - [MIT Media Lab identity](http://eroonkang.com/projects/MIT-Media-Lab-Identity/)
 - [Generative eBook covers for New York Public Library](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers)
-- 코드로 네임택 디자인: https://brunch.co.kr/@designforhuman/26
-- Museum in brazil? spain?
-
-## Techniques
-- loop
-- array
-- js objects
-- spreadsheet to json/csv
-- text parsing
-
-
+- [코드로 네임택 디자인](https://brunch.co.kr/@designforhuman/26)(Korean)
 
 
