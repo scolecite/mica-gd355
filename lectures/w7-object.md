@@ -9,6 +9,23 @@ var name = "Cindy";
 ```
 
 We can also use *an object* to group data together. Here is an object literal:
+
+```js
+var person1 = {
+  name: "Cindy",
+  age: 21,
+  fav_color: "orange"
+}
+```
+Then, we can access each property with the dot notation. Be careful that you do not make a typing error with the placement of commas, colons and semi-colons:
+
+```js
+console.log(person1.name);
+console.log(person1.age);
+```
+
+Here is another example:
+
 ```js
 var ball = {
   x: 50,
@@ -16,7 +33,7 @@ var ball = {
   size: 20
 };
 ```
-Then, we can access each property with the dot notation. Be careful that you do not make a typing error with the placement of commas, colons and semi-colons:
+
 
 ```js
 ellipse(ball.x, ball.y, ball.size, ball.size);
