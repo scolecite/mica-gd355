@@ -60,6 +60,8 @@ myArray.splice(0, 3);
 console.log(myArray); // after
 ```
 
+`myArray.splice(0, 3)` means to remove 3 items beginning at 0 index position. Therefore, we removed `10, 11, 12`.
+
 Because an array holds many elements, you normally use arrays and for loops together. Let's put together everything we've learned so far to visualize our walking data:
 
 ```js
