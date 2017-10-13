@@ -47,4 +47,6 @@ Final presentation
 - [Poster Wall for the 21st Century](https://lust.nl/#projects-3041) by LUST
 - [Speculative Everything by Dunne & Raby](https://www.wired.com/2014/02/design-fiction-speculative-everything-dunne-raby/) and [their video from Resonate](https://vimeo.com/65074246)
 - [Studio Feixen](http://www.itsnicethat.com/articles/studio-feixen-graphic-design-030317)
-
+- http://typomania.ru
+- http://weltform.at
+- http://www.themovingposter.com
