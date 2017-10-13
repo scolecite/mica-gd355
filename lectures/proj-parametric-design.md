@@ -1,6 +1,6 @@
 # Project: Parametric Design System
 
-We will create a design system that is controlled by the parameters you define. Instaed of focusing on individual design outcomes, we will create rules and systems that can generate many different variations. To do this, we will have to rethink about the role of a designer. How do you work with the large amount of data? How do you create a more personalized/customized experience? Will you hand-craft each and every variation? Will you automate and randomize everything? Who makes the decisions for your design? How do you maintain your design system? 
+You will create a design system that is controlled by the parameters you define. Instaed of focusing on individual design outcomes, You will create rules and systems that can generate many different variations. To do this, You will have to rethink about the role of a designer. How do you work with the large amount of data? How do you create a more personalized/customized experience? Will you hand-craft each and every variation? Will you automate and randomize everything? Who makes the decisions for your design? How do you maintain your design system? 
 
 You will work with data you collect yourself or find online, and map the data to visual forms. 
 
@@ -10,9 +10,9 @@ Choose one of the options below for your project:
 - Design unique book covers for the 30 books. 
 - (You may suggest other options.)
 
-Remember that we are not making decisions for every single design variation. We are designing *a system*.
+Remember that you are not making decisions for every single design variation. You are designing *a system*.
 
-To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). We will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. We will start with 30 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
+To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). You will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. You will start with 30 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
 
 Your system should be both functional and aesthetically pleasing.
 
@@ -67,4 +67,18 @@ Your system should be both functional and aesthetically pleasing.
 
 ## Weekly schedule
 
+## Week 7
+Project begins
+Research
+
+## Week 8
+Research presentation
+Collect data
+
+## Week 9
+
+## Week 10
+
+## Week 11
+Presentation
 
