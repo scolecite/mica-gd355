@@ -61,9 +61,13 @@ Your system should be both functional and aesthetically pleasing.
 - map data to visual
 - test with different data. find the extremes.
 - adjust the rules and ranges (make it adaptable, flexible. set the boundaries).
+
+### Step 4
 - repeat and iterate. curate.
 - scalable for the future (different dataset in the future)
 - export
+
+----
 
 ## Weekly schedule
 
