@@ -4,10 +4,11 @@ Prepare a idea/research presentation on the Parametric Design System project. Lo
 
 What you may include:
 - research on the company/organization/event/participants you want to work with.
+- *two different design directions* for the same company/event you choose.
+- any sketches and/or mockups
 - inspirations
 - references
 - resources (example codes, techniques, etc.)
-- sketches
 
 
 
