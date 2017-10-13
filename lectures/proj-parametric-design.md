@@ -30,6 +30,7 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 
 ## Examples
 - [MIT Media Lab identity](http://eroonkang.com/projects/MIT-Media-Lab-Identity/) and [the new identity](http://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_mit_media_lab_by_pentagram.php#.WJpIYBiZORs)
+- [Whitney Museum design identity](http://whitney.org/NewIdentity)
 - [Beijing Design Week 2015 Identity](http://lava.nl/projects/bjdw)
 - [Casa da Musica](http://sagmeisterwalsh.com/work/all/casa-da-musica/)
 - [SAIC Type Synthesizer](http://www.saic.edu/150/poster-generator/), [video](https://vimeo.com/138236203)
