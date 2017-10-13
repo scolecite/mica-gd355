@@ -84,6 +84,7 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 ## Week 7
 - Project begins
 - Research
+- idea development
 
 ## Week 8
 - Research presentation
