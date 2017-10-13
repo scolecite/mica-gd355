@@ -21,7 +21,7 @@ Your system should be both functional and aesthetically pleasing.
 - [Automation threatens to make graphic designers obsolete](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)
 - [MIT Media Lab identity](http://eroonkang.com/projects/MIT-Media-Lab-Identity/)
 - [Generative eBook covers for New York Public Library](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers)
-- [코드로 네임택 디자인](https://brunch.co.kr/@designforhuman/26)(Korean)
+- [코드로 네임택 디자인](https://brunch.co.kr/@designforhuman/26) (Korean)
 
 
 
