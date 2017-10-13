@@ -68,17 +68,19 @@ Your system should be both functional and aesthetically pleasing.
 ## Weekly schedule
 
 ## Week 7
-Project begins
-Research
+- Project begins
+- Research
 
 ## Week 8
-Research presentation
-Collect data
+- Research presentation
+- Collect and work with data
 
 ## Week 9
+- First prototype
 
 ## Week 10
+- Iterate
 
 ## Week 11
-Presentation
+- Presentation
 
