@@ -25,6 +25,8 @@ Your system should be both functional and aesthetically pleasing.
 - [SAIC Type Synthesizer](http://www.saic.edu/150/poster-generator/), [video](https://vimeo.com/138236203)
 - [Generative eBook covers for New York Public Library](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers)
 - [코드로 네임택 디자인하기](https://brunch.co.kr/@designforhuman/26) (Korean)
+- [Programming Design Systems](https://programmingdesignsystems.com)
+
 
 
 
