@@ -21,10 +21,10 @@ To collect the data, you will ask a series of questions (ie. google form) to get
 - You will document the entire process using writings, images, videos, etc.
 
 ## Deliverables
-- A PDF file that documents your process and result. You will do a presentation.
-- The data you used.
-- The code
-- The images created with your system.
+- A PDF file: This documents your process and result. You will do a presentation at the end.
+- The data you used: CSV file
+- The code: well-organized, commented and readable.
+- The outcomes(images) created with your system.
 
 
 
