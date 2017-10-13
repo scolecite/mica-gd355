@@ -83,6 +83,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 7
 - [Object](lectures/w7-object.md)
 - [Array](lectures/w7-array.md)
+- **[Project: Parametric Design System](lectures/proj-parametric-design.md)**
 
 ### Week 8
 
