@@ -20,6 +20,7 @@ Your system should be both functional and aesthetically pleasing.
 - [Generative Design: Redefining the Designer](https://www.commarts.com/columns/generative-design-redefining-the-designer)
 - [Automation threatens to make graphic designers obsolete](https://eyeondesign.aiga.org/automation-threatens-to-make-graphic-designers-obsolete/)
 - [MIT Media Lab identity](http://eroonkang.com/projects/MIT-Media-Lab-Identity/)
+- [Beijing Design Week 2015 Identity](http://lava.nl/projects/bjdw)
 - [Generative eBook covers for New York Public Library](https://www.nypl.org/blog/2014/09/03/generative-ebook-covers)
 - [코드로 네임택 디자인하기](https://brunch.co.kr/@designforhuman/26) (Korean)
 
