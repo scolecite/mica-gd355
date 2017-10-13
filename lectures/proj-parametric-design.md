@@ -14,7 +14,17 @@ Remember that you are not making decisions for every single design variation. Yo
 
 To collect the data, you will ask a series of questions (ie. google form) to get to know the participants better. The data you collect should be in a table form (ie. google spreadsheet). You will then bring into p5.js, and process them. You will interpret the data as parameters/variables to determine the visual form/identity (ex. type, color, form, length, etc.). Some part can also be generated randomly. You will start with 30 different variations, but your system should be flexible and adaptable enough to handle any new data that may be fed into later. 
 
-Your system should be both functional and aesthetically pleasing.
+
+## Requirements
+- Your system should be functional and usable.
+- Most of the work should be done algorithmically using p5js.
+- You will document the entire process using writings, images, videos, etc.
+
+## Deliverables
+- A PDF file that documents your process and result. You will do a presentation.
+- The data you used.
+- The code
+- The images created with your system.
 
 
 
