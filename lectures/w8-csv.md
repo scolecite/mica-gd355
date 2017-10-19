@@ -2,7 +2,7 @@
 
 - what is csv file
 - how to create 
-- how to load into p5js
+- how to load into p5js (start with p5js reference example)
 
 - how to access row/colum
 - how to display
