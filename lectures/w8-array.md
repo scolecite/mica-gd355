@@ -29,7 +29,7 @@ Or, we can do this all in one line:
 var marchSteps = [3021, 3512, 1334, 5119];
 ```
 
-When we need to access the March 1st step count, we can use the array index as `marchSteps[0]`. Note that the counting starts at *zero*.
+Each element in an array gets an index number as in [0], [1], etc, For example, when we need to access the March 1st step count, we can use the array index as `marchSteps[0]`. Note that the counting starts at *zero*.
 
 ```js
 // to see the March 1st step count
