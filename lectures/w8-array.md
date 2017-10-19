@@ -56,7 +56,7 @@ If you want to delete an element from the array, use `splice()`:
 ```js
 var myArray = [10, 11, 12, 13, 14, 15, 16, 17, 18, 19]; 
 console.log(myArray); // before
-myArray.splice(0, 3);
+myArray.splice(0, 3); // remove 3 items from index 0
 console.log(myArray); // after
 ```
 
