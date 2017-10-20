@@ -92,6 +92,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Array](lectures/w8-array.md)
     - [many bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/HybAFLUTb)
     - [interactive bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/HJdF8TL6-)
+- [Assignments](lectures/w8-assignments.md)
 
 ### Week 9
 - Review CSV file/design mockups
