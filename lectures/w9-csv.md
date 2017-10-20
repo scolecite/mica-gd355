@@ -58,14 +58,28 @@ function preload() {
 The functions used in the example above such as `getRowCount()`, `getColumnCount()`, `getColumn()`, `getString()` are all part of the table object. Here, we are using `print()` to print out to the console to see if it works correctly.
 
 ## Display data
-If you want to display data on screen, you will use functions like `text()` instead of `print()`. So, let's change `setup()`:
+If you want to display data on screen, you will use functions like `text()` instead of `print()`. So, let's rewrite `setup()`:
 
 ```js
 function setup() {
+  createCanvas(400, 400);
+  background(200);
+  
   //cycle through the table
-  for (var r = 0; r < table.getRowCount(); r++)
-    table.getString(r, "id")
-  }
+  for (var r = 0; r < table.getRowCount(); r++) {
+    var id = table.getString(r, 0);
+    var sp = table.getString(r, 1);
+    var na = table.getString(r, 2);
+    
+    push();
+    translate(0, 100*r);
+    textSize(12);
+    text(id + ":", 50, 50);
+    text(sp, 65, 50);
+    textSize(36);
+    text(na, 50, 86);
+    pop();
+  }	
 }
 ```
 
