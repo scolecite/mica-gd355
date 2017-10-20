@@ -51,12 +51,26 @@ function preload() {
 ```
 
 ## loadTable function
-`loadTable()` function is used to load tabular type of data. The data loaded in is now stored in an object called `table`. This object name is not important. You may name it any way you want. Once the object is initialized, we can call many functions on it using the dot notation. Here is [the full reference](https://p5js.org/reference/#/p5.Table).
+`loadTable()` function is used to load tabular type of data. The data loaded in is now stored in an object called `table`. This object name is not important. You may name it any way you want. Once the object is initialized, we can call many functions on it using the dot notation. Here is [the full reference](https://p5js.org/reference/#/p5.Table). 
+
+The functions used in the example above such as `getRowCount()`, `getColumnCount()`, `getColumn()`, `getString()` are all part of the table object. Here, we are using `print()` to print out to the console to see if it works correctly.
+
+## Display data
+If you want to display data on screen, you will use functions like `text()` instead of `print()`. So, let's change `setup()`:
+
+```js
+function setup() {
+  //cycle through the table
+  for (var r = 0; r < table.getRowCount(); r++)
+    for (var c = 0; c < table.getColumnCount(); c++) {
+      print(table.getString(r, c));
+    }
+}
+```
 
 
 
 
-- how to access row/colum
 - how to display
 
 - all at once (for loop)
