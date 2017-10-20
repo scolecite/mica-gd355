@@ -1,5 +1,9 @@
 # Week 8 assignments
 
+## Array
+Read and follow along the posting [here](w8-array.md).
+
+
 ## Prepare the data
 We have to be extremely careful about collecting other people’s data and using them. We need proper consents and other systematic measures to store/retrieve/remove data. Most websites have the privacy policy section. Often times, it’s legally required. When the project is dealing with privacy and personal data, and when it can directly affect the participants, we need to have the empathy towards the users/participants, and it’s better to be on the safe side.
 
