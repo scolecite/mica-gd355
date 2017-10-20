@@ -38,7 +38,7 @@ function setup() {
 }
 ```
 
-As it says on the top comments, create a blank text file and paste the data and save with a file extension of `.csv`.
+As it says on the top comments, create a blank text file in TextEdit(Mac) and paste the data. Before you save, go to `Format > Make Plain Text`. This will remove any formatting and make the text as plain as possible. Now, save with a file extension of `.csv` instead of `.txt`.
 
 - how to access row/colum
 - how to display
