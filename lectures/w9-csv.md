@@ -133,5 +133,7 @@ function mousePressed() {
 `mousePressed()` is used to go to the next entry, but this can be automated if necessary. What's important here is that we created the variable `rowIndex` to control which row we want to access.
 
 
+## Reference
+[The reference for the table object](https://p5js.org/reference/#/p5.Table) has many other functions and examples, so be sure to check them out and try them yourself. 
 
 
