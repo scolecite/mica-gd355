@@ -88,7 +88,9 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 8
 - Project idea/research presentation
 - Object review
+    - [bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/H1ShtILpZ)
 - [Array](lectures/w8-array.md)
+    - [many bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/HybAFLUTb)
 
 ### Week 9
 - Review CSV file/design mockups
