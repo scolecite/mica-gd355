@@ -7,5 +7,5 @@ For this project, we will mainly use dummy data that is generated randomly. Here
 
 
 ## Design mockup
-Based on the data you have available and the concept you have developed, create a design mockup. We will eventually use p5js for the final design, but this week, you may use more traditional tools. Although you may not be programming, you will still have to think in terms of variables and functions.
+Based on the data you have available and the concept you have developed, create design mockups. We will eventually use p5js for the final design, but this week, you may use more traditional tools. Although you may not be programming, you will still have to think in terms of variables and functions.
 
