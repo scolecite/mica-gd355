@@ -64,9 +64,8 @@ If you want to display data on screen, you will use functions like `text()` inst
 function setup() {
   //cycle through the table
   for (var r = 0; r < table.getRowCount(); r++)
-    for (var c = 0; c < table.getColumnCount(); c++) {
-      print(table.getString(r, c));
-    }
+    table.getString(r, "id")
+  }
 }
 ```
 
