@@ -12,7 +12,7 @@ For this project, we will use dummy data instead of real person data. Here are a
 If the generator does not have the data field you need, you can manually create them as well. (We are need 30 different ones.)
 
 
-## Design mockup
+## Design mockup/prototype
 Based on the data you have available and the concept you have developed, **create two different design prototypes**. For the two prototypes, you may create variations on the same concept, or you may try two very different design concepts. You may first design them in Photoshop/Illustrator/InDesign or you may go straight into p5js and start coding. Use whatever method that works for you. The prototypes may not have any interactivity yet, but it should show us what the final images may look like. 
 
 ----
