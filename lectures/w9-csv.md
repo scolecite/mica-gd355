@@ -134,6 +134,10 @@ function mousePressed() {
 
 
 ## Reference
+Here is the finixhed code examples:
+- http://alpha.editor.p5js.org/cdaein/sketches/H1pz2aIT- (using loop)
+- http://alpha.editor.p5js.org/cdaein/sketches/rJg-0TL6- (using index)
+
 [The reference for the table object](https://p5js.org/reference/#/p5.Table) has many other functions and examples, so be sure to check them out and try them yourself. 
 
 
