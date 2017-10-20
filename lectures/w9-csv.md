@@ -83,9 +83,55 @@ function setup() {
 }
 ```
 
+## Display one entry at a time
+What if, instead of displaying all data at the same time, you want to display one entry at a time? Instead of using for loop, we can access one row at a time by creating a variable `rowIndex`. Here is the updated code:
+
+```js
+// https://raw.githubusercontent.com/cdaein/mica-gd355/fall2017/files/mammals.csv
+//
+// id,species,name
+// 0,Capra hircus,Goat
+// 1,Panthera pardus,Leopard
+// 2,Equus zebra,Zebra
+
+var table;
+
+var rowIndex = 0;
+
+function preload() {
+  table = loadTable("https://raw.githubusercontent.com/cdaein/mica-gd355/fall2017/files/mammals.csv", "csv", "header");
+}
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(200);
+
+  var id = table.getString(rowIndex, 0);
+  var sp = table.getString(rowIndex, 1);
+  var na = table.getString(rowIndex, 2);
+
+  push();
+  textSize(12);
+  text(id + ":", 50, 50);
+  text(sp, 65, 50);
+  textSize(36);
+  text(na, 50, 86);
+  pop();  
+}
+
+function mousePressed() {
+  rowIndex++;
+  if (rowIndex >= table.getRowCount()) {
+    rowIndex = 0;
+  }
+}
+```
+
+`mousePressed()` is used to go to the next entry, but this can be automated if necessary. What's important here is that we created the variable `rowIndex` to control which row we want to access.
 
 
 
-- all at once (for loop)
-- one each time (index-based)
 
