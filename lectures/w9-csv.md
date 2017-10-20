@@ -71,8 +71,6 @@ function setup() {
 
 
 
-- how to display
-
 - all at once (for loop)
 - one each time (index-based)
 
