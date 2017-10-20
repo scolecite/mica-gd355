@@ -97,4 +97,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 10
 - Review prototype
 
+### Week 11
+- Present the 1st project: Parametric Design System
+
 
