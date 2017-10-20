@@ -13,9 +13,10 @@ If the generator does not have the data field you need, you can manually create 
 
 
 ## Design mockup
-Based on the data you have available and the concept you have developed, **create two different design mockups**. For the two mockups, you may create variations on the same concept, or you may try two very different design concepts. You may first design them in Photoshop/Illustrator/InDesign or you may go straight into p5js and start coding. Use whatever method that works for you. Show us what it will look like in the final version. 
+Based on the data you have available and the concept you have developed, **create two different design prototypes**. For the two prototypes, you may create variations on the same concept, or you may try two very different design concepts. You may first design them in Photoshop/Illustrator/InDesign or you may go straight into p5js and start coding. Use whatever method that works for you. The prototypes may not have any interactivity yet, but it should show us what the final images may look like. 
 
+----
 
 What you will bring next week:
 - CSV file you generate
-- Two different design mockups (image, pdf, etc.)
+- Two different design prototypes (image, pdf, etc.)
