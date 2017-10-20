@@ -38,7 +38,19 @@ function setup() {
 }
 ```
 
-As it says on the top comments, create a blank text file in TextEdit(Mac) and paste the data. Before you save, go to `Format > Make Plain Text`. This will remove any formatting and make the text as plain as possible. Now, save with a file extension of `.csv` instead of `.txt`.
+As it says on the top comments, create a blank text file in TextEdit(Mac) and paste the data. Before you save, go to `Format > Make Plain Text`. This will remove any formatting and make the text as plain as possible. Now, save with a file extension of `.csv` instead of `.txt`. The CSV file in the example above must be saved in `assets` folder, which should sits right next to your `sketch.js` file.
+
+JavaScript is asynchronous and we cannot predict which data will be loaded first, the sketch may run before it loads the CSV file. That will result in an error. To avoid, p5js has a special function called `preload()`. This will ensure that anything you add into this function will be loaded before the main sketch runs.
+
+```js
+function preload() {
+  table = loadTable("assets/mammals.csv", "csv", "header");
+}
+```
+
+
+
+
 
 - how to access row/colum
 - how to display
