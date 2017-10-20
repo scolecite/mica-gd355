@@ -1,5 +1,7 @@
 # Working with CSV data
 
+## Set up
+
 To load CSV file data into p5js, we will start with [this example code](https://p5js.org/reference/#/p5/loadTable) frok p5js website.
 
 ```js
@@ -48,6 +50,8 @@ function preload() {
 }
 ```
 
+## loadTable function
+`loadTable()` function is used to load tabular type of data. The data loaded in is now stored in an object called `table`. This object name is not important. You may name it any way you want. Once the object is initialized, we can call many functions on it using the dot notation. Here is [the full reference](https://p5js.org/reference/#/p5.Table).
 
 
 
