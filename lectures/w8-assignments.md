@@ -9,7 +9,7 @@ We have to be extremely careful about collecting other people’s data and using
 
 For this project, we will use dummy data instead of real person data. Here are a few websites where you can create different kinds of dummy data: 
 
-- http://dummydata.me/generate
+- http://dummydata.me/generate (not working)
 - https://mockaroo.com
 - http://www.generatedata.com
 
