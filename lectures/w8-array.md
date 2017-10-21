@@ -75,7 +75,7 @@ function draw() {
   background(200);
 	
 	for (var i = 0; i < marchSteps.length; i++) {
-		var h = map(marchSteps[i], 0, 10000, 0, 400);
+		var h = map(marchSteps[i], 0, 10000, 0, 400); // map() is used to convert 0-10000 range to 0-400 range.
 		rect(i*50, height-100, 40, -h);
 		text(marchSteps[i], i*50, height-80);
 	}
