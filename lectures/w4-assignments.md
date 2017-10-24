@@ -22,6 +22,7 @@ Read the [Transformation](w4-transformation.md) posting.
 - Inspirations: 
     - https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software
     - https://www.instagram.com/zach.lieberman/
+    - https://www.youtube.com/watch?v=_632JwEl0hU
     - [Rhonda](http://rhondaforever.com/)
     - http://creativeapplications.net
     
