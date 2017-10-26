@@ -97,6 +97,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 9
 - Review CSV file/design mockups
 - [Working with CSV data in p5js](lectures/w9-csv.md)
+- [Assignments](lectures/w9-assignments.md)
 
 ### Week 10
 - Review prototype
