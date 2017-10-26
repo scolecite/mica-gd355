@@ -1,7 +1,8 @@
 # Week 9 assignments
 
-## Find resources
+## References
 Collect any reference, inspirations, blog postings, tutorials, etc. that will help you realize the project.
 
-## First prototype
-Once you have a design concept and know what needs to be done, break it down into
+## Prototypes
+**Create a few small prototype sketches in p5js.** Once you have a design concept, think about what you will need to do next. When you have a coding problem you don't know how to solve, break the problem down into smaller problems. Tackle each smaller problem in its most basic form. Focus on one aspect at a time. For instance, if you don't know how to load a CSV file into your sketch, look for a simple example. Create a very simple dataset, and try to just display on screen. For another example, if you don't know how to create a complex shape, start with a rectangle. These prototypes may not be in the final quality, but they should *work*.
+
