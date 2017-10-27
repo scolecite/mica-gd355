@@ -81,3 +81,6 @@ function draw() {
 	}
 }
 ```
+
+
+And [here](https://codepen.io/cdaein/pen/Rpeowm?editors=0010) is a version after adding more elements.
