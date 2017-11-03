@@ -1,6 +1,6 @@
 # Week 10 assignments
 
-Finish the Parametric Design System project.
+~~Finish the Parametric Design System project.~~ Final deadline has been extended, but you still need to prepare the working prototype and the presentation.
 
 ## Deliverables
 - The data you used: CSV file
