@@ -104,6 +104,10 @@ This course is taught in modules designed to explore various media languages rel
 - [Assignments](lectures/w10-assignments.md)
 
 ### Week 11
-- Present the 1st project: Parametric Design System
+- Project 1 presentation 
 
 ### Week 12
+- Project 1 review again
+
+### Week 13
+*Thanksviging break - no class*
