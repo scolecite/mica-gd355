@@ -107,7 +107,8 @@ This course is taught in modules designed to explore various media languages rel
 - Project 1 presentation 
 
 ### Week 12
-- Project 1 review again
+- Project 1 final review
+- Project 2
 
 ### Week 13
 *Thanksviging break - no class*
