@@ -41,3 +41,21 @@ Since we only have three weeks left in the semester after the Thanksgiving break
 - [Word counter in JS](https://www.youtube.com/watch?v=unm0BLor8aE)
 - [Programming from A to Z](http://shiffman.net/a2z/): analysis and generation of text-based data
 - 
+
+
+## Weekly schedule
+
+### Week 12
+Project begins.
+
+### Week 13
+*Thanksgiving - no class*
+
+### Week 14
+1st prototype review
+
+### Week 15
+2nd prototype review
+
+### Week 16
+final review
