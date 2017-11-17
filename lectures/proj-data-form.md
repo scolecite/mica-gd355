@@ -4,7 +4,7 @@ For the final project, we will create forms through computation. The forms (and 
 
 The data may be your personal data or public data. It may be historic or momentary data. We have already looked at how CSV data can be used in p5js sketches. 
 
-Not only the final outcome, but also the whole process will be important — how much progress you make each week, how much self-learning you do and how much you can find the right resources. Every week until the final, we will keep creating prototypes (quick sketches), gradually developing the design and the code. Be prepared to present “working” prototypes each week.
+Not only the final outcome, but also the whole process will be important — how much progress you make each week, how much self-learning you do and how much you can find the right resources. Every week until the final, we will keep creating prototypes, gradually developing the design and the code. Be prepared to present “working” prototypes each week.
 
 A word of caution: 
 
