@@ -11,20 +11,27 @@ A word of caution:
 Since we only have three weeks left in the semester after the Thanksgiving break, the idea and the prototype you bring in next class should demonstrate that you will be able to realize your ideas within the given timeframe. Do a thorough research on the topic and the techniques. Choose something that is challenging and doable.
 
 ## Examples of data sources
-- Reporter app on iOS: for collecting personal data.
-- Moves app: tracking the daily steps and places.
-- Open Baltimore public data
+- [Reporter app](http://www.reporter-app.com) on iOS: for collecting personal data.
+- [Moves app](https://www.moves-app.com): tracking the daily steps and places.
+- [Open Baltimore](https://data.baltimorecity.gov) public data
 - [New York City open data](https://opendata.cityofnewyork.us)
 
-*Most data will be provided in CSV format. If that’s not available, you can also try JSON format. The Coding Train has tutorials on how to use the format.*
+*Most data will be provided in CSV format. If that’s not available, you can also try JSON format. The Coding Train has tutorials on how to use it.*
 
 ## Requirements
 - Use text-based data (CSV, JSON or plain text) as a starting point
-- The final outcome will be still image or interactive app.
+- The final outcome will be either still images or webpages. There may or may not be animation/interaction.
+
+## Deliverables
+- multiple screenshots at each stage of development
+- The code (clean, organized and commented)
+- The final images and/or web page
 
 ## Inspirations
 - [Felton Report](http://feltron.com/FAR14.html)
 - [Lust](https://lust.nl/#medium-Visualization)
+- [Giorgia Lupi](http://giorgialupi.com/work)
+- [Ben Fry](http://benfry.com/projects/) and [Fathom](https://fathom.info)
 - 
 
 ## Learning resources
