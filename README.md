@@ -109,6 +109,8 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 12
 - Project 1 final review
 - **[Project 2: Data-driven Form-making](lectures/proj-data-form.md)**
+- [How to convert p5js to Processing](lectures/w12-p5-to-processing.md)
+    - [Processing transitions](https://github.com/processing/p5.js/wiki/Processing-transition)
 - [Assignments](lectures/w12-assignments.md)
 
 ### Week 13
