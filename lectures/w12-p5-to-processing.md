@@ -32,5 +32,4 @@ Also, it is much more important to understand the basic programming concepts tha
     - `String xxxx()` if it returns string
     - and so on...
   - `console.log()` to `println()`
-  
-  Here is [an example code](../../files/porting-p5-ex.zip) that we will use in class for converting/porting.
+ 
