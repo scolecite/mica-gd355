@@ -32,7 +32,8 @@ Since we only have three weeks left in the semester after the Thanksgiving break
 - [Lust](https://lust.nl/#medium-Visualization)
 - [Giorgia Lupi](http://giorgialupi.com/work)
 - [Ben Fry](http://benfry.com/projects/) and [Fathom](https://fathom.info)
-- 
+- [358 by Ken Frederick](https://vimeo.com/33925617)
+- [Fernanda Viégas and Martin Wattenberg](http://hint.fm)
 
 ## Learning resources
 - [Working with data tutorials](https://www.youtube.com/watch?v=rJaXOFfwGVw&list=PLRqwX-V7Uu6a-SQiI4RtIwuOrLJGnel0r): a great first set of videos to watch
@@ -40,7 +41,7 @@ Since we only have three weeks left in the semester after the Thanksgiving break
 - [Wikipedia API](https://www.youtube.com/watch?v=RPz75gcHj18): use Wikipedia articles in your p5js
 - [Word counter in JS](https://www.youtube.com/watch?v=unm0BLor8aE)
 - [Programming from A to Z](http://shiffman.net/a2z/): analysis and generation of text-based data
-- 
+- [Data Visualization and d3.js MOOC course](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 
 ## Weekly schedule
