@@ -1,6 +1,6 @@
 # Data-driven Form-making
 
-For the final project, we will create forms through computation. The forms (and how they behave) will be driven by some form of data (CSV, JSON or plain text). Depending on how you want to use this opportunity, it may be a continuation of creating a parametric system, or you may keep it more experimental and use data to create unexpected results. Use this opportunity to further your study of programming skills.
+For the final project, we will create forms through computation. The forms (and how they behave) will be driven by some form of data (CSV, JSON or plain text). Depending on how you want to use this opportunity, it may be a continuation of creating a parametric system, or you may keep it more experimental and use data to create unexpected results. Use this opportunity to further your study of programming skills. Try learning new algorithms.
 
 The data may be your personal data or public data. It may be historic or momentary data. We have already looked at how CSV data can be used in p5js sketches. 
 
