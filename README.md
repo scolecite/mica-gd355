@@ -108,7 +108,18 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 12
 - Project 1 final review
-- Project 2
+- **[Project 2: Data-driven Form-making](lectures/proj-data-form.md)**
+- [Assignments](lectures/w12-assignments.md)
 
 ### Week 13
 *Thanksviging break - no class*
+
+### Week 14
+- First prototypes review
+
+### Week 15
+- Second prototypes review
+
+### Week 16
+- Final review
+
