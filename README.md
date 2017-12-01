@@ -118,6 +118,8 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 14
 - First prototypes review
+- [Trigonometry](lectures/w14-trigonometry.md)
+- Assignment: present the 2nd working prototype.
 
 ### Week 15
 - Second prototypes review
