@@ -4,7 +4,7 @@ There are a lot of interesting things about trigonometry, but here, we will look
 
 ## Sine / Cosine
 
-![sine function](../../images/graph-sine-cosine.png)
+![sine function](../images/graph-sine-cosine.png)
 
 The only thing you need to know now is that the value we get from the sine function changes smoothly between -1 and 1.
 
