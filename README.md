@@ -2,7 +2,7 @@
 
 - GD355
 - 3 credits
-- Fall 2017
+- Fall 2018
 - Instructor: Dae In Chung
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
@@ -20,7 +20,7 @@ This course is taught in modules designed to explore various media languages rel
 - Apply coding skills in creative projects.
 
 ## Some links
-- [Syllabus](files/MICA-17FA-GD355-Syllabus.pdf)
+- [Syllabus](files/MICA-18FA-GD355-Syllabus.pdf)
 - [Resources](lectures/resources.md)
 - Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrM1h1YjJSNjFXTGs?usp=sharing)
 - [Live poll link](https://pollev.com/daechung096)
