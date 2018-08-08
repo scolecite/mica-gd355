@@ -39,6 +39,8 @@ This course is taught in modules designed to explore various media languages rel
 - [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
 - [Assignments](lectures/w1-assignments.md)
 
+<!--
+
 ### Week 2
 - JavaScript drawing [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
@@ -127,3 +129,4 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 16
 - Final review
 
+-->
