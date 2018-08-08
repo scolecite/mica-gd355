@@ -28,7 +28,7 @@ This course is taught in modules designed to explore various media languages rel
 ## Weekly Schedule
 
 ### Week 1
-- [Google Survey](https://docs.google.com/forms/d/e/1FAIpQLSdJQMNXsYxtiz50Zv58v5vOA7Rhw-FkOvojQx7N9vw3XjUH_Q/viewform?usp=sf_link)
+- [Google Survey](https://goo.gl/forms/MzCzuH5Kxp6K6dGj1)
 - Setup:
   - Install Brackets code editor: http://brackets.io
   - Install [Chrome web browser](https://www.google.com/chrome)
