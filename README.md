@@ -29,8 +29,10 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 1
 - [Google Survey](https://goo.gl/forms/MzCzuH5Kxp6K6dGj1)
+
+<!--
 - Setup:
-  - Install Brackets code editor: http://brackets.io
+  - Install Atom code editor: http://atom.io
   - Install [Chrome web browser](https://www.google.com/chrome)
   - Sign up on http://codepen.io
   - Sign up on http://github.com
@@ -39,7 +41,6 @@ This course is taught in modules designed to explore various media languages rel
 - [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
 - [Assignments](lectures/w1-assignments.md)
 
-<!--
 
 ### Week 2
 - JavaScript drawing [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
