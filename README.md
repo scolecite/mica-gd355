@@ -29,8 +29,6 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 1
 - [Google Survey](https://goo.gl/forms/MzCzuH5Kxp6K6dGj1)
-
-<!--
 - Setup:
   - Install Atom code editor: http://atom.io
   - Install [Chrome web browser](https://www.google.com/chrome)
@@ -38,11 +36,12 @@ This course is taught in modules designed to explore various media languages rel
   - Sign up on http://github.com
 - [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
 - Conditional design exercise
-- [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
+
+<!--
 - [Assignments](lectures/w1-assignments.md)
 
-
 ### Week 2
+- [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
 - JavaScript drawing [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
 - [Structure of a sketch](lectures/w2-structure.md)
