@@ -7,3 +7,5 @@
 - Try out different themes, different slide formats that Reveal.js offers. (ex. title slide, list, background-image, highlighting, etc.)
 - You can also add your own classes (to html) and styles (to css).
 - Use [Reveal.js website](https://github.com/hakimel/reveal.js/) to learn more about the library and how to use it. Look at `demo.html` for reference.
+- If you need a review on HTML/CSS, check out courses on [lynda.com](http://lynda.com), [Khan Academy](http:/khanacademy.com) or other sources.
+
