@@ -38,13 +38,13 @@ This course is taught in modules designed to explore various media languages rel
   - document structure
   - html tags
   - css selectors (id, class)
-- Reveal.js
-
+- [Reveal.js](http://revealjs.com), download source [here](https://github.com/hakimel/reveal.js/)
+- [Assignments](lectures/w1-assignments.md)
 
 <!--
 - Conditional design exercise
 - [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
-- [Assignments](lectures/w1-assignments.md)
+
 
 ### Week 2
 - [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
