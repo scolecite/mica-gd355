@@ -4,6 +4,6 @@
 - Download reveal.js library and set up a project first (folders and files)
 - Remove the default slides(`<section>s`) from `index.html` and replace with your own contents.
 - You will introduce your hometown to us using 12 - 15 slides. The total length of your presentation should be roughly 3 minutes.
-- Try out different themes, different slide formatsw that Reveal.js offers. (ex. title slide, list, background-image, highlighting, etc.)
+- Try out different themes, different slide formats that Reveal.js offers. (ex. title slide, list, background-image, highlighting, etc.)
 - You can also add your own classes (to html) and styles (to css).
 - Use [Reveal.js website](https://github.com/hakimel/reveal.js/) to learn more about the library and how to use it. Look at `demo.html` for reference.
