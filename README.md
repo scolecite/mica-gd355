@@ -38,7 +38,8 @@ This course is taught in modules designed to explore various media languages rel
   - document structure
   - html tags
   - css selectors (id, class)
-- [Reveal.js](http://revealjs.com), download source [here](https://github.com/hakimel/reveal.js/)
+- [Reveal.js](http://revealjs.com)
+  - https://github.com/hakimel/reveal.js/ - download source, how-to documentation
 - [Assignments](lectures/w1-assignments.md)
 
 <!--
