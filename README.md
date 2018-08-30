@@ -34,10 +34,12 @@ This course is taught in modules designed to explore various media languages rel
   - Install [Chrome web browser](https://www.google.com/chrome)
   - Sign up on http://codepen.io
   - Sign up on http://github.com
-- [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
-- Conditional design exercise
+- asdf
+
 
 <!--
+- Conditional design exercise
+- [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
 - [Assignments](lectures/w1-assignments.md)
 
 ### Week 2
