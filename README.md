@@ -42,12 +42,14 @@ This course is taught in modules designed to explore various media languages rel
   - https://github.com/hakimel/reveal.js/ - download source, how-to documentation
 - [Assignments](lectures/w1-assignments.md)
 
+### Week 2
+
 <!--
+- [Assignments](lectures/w2-assignments.md)
+
+### Week 3
 - Conditional design exercise
 - [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
-
-
-### Week 2
 - [Stanford Karel](http://stanford.edu/~cpiech/karel/learn.html) (until Unit 9.2)
 - JavaScript drawing [Canvas API](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
@@ -56,9 +58,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Advanced drawing](lectures/w2-adv-drawing.md)
   - [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 - [Drawing type](lectures/w2-drawing-type.md)
-- [Assignments](lectures/w2-assignments.md)
 
-### Week 3
 - [p5.js online editor](http://alpha.editor.p5js.org)
 - [Arithmetic](lectures/w3-arithmetic.md)
 - [Variables](lectures/w3-variables.md)
