@@ -1,5 +1,10 @@
 # Week 1 assignments
 
+## Google Survey
+Please fill out the google survey.
+
+## Online Presentation
+
 - You will introduce your hometown to us using 12 ~ 15 slides. The total length of your presentation should be roughly 3 minutes (keep it short).
 - Create the slide presentation using Reveal.js library. (no Keynote, Powerpoint, Google Slides...)
 - Download reveal.js library and set up a project first (folders and files)
