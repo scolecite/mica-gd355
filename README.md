@@ -41,6 +41,10 @@ This course is taught in modules designed to explore various media languages rel
 - [Reveal.js](http://revealjs.com)
   - https://github.com/hakimel/reveal.js/ - download source, how-to documentation
 - [Assignments](lectures/w1-assignments.md)
+- Lecture videos
+  - [Atom setup & HTML](https://www.youtube.com/watch?v=L_zuVMNecgs&t=1s&index=2&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
+  - [HTML & CSS review](https://www.youtube.com/watch?v=muUnU1fbF8Q&t=0s&index=4&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
+  - [Reveal.js intro](https://www.youtube.com/watch?v=Qr8U7duGymU&t=0s&index=3&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
 
 ### Week 2
 
