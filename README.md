@@ -47,6 +47,7 @@ This course is taught in modules designed to explore various media languages rel
   - [Reveal.js intro](https://www.youtube.com/watch?v=Qr8U7duGymU&t=0s&index=3&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
 
 ### Week 2
+- Reveal.js presentation
 - [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
 - 
 
