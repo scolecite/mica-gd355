@@ -1,6 +1,8 @@
 # Project: Responsive Poster
 
 
+## Deliverable
+- A project folder that contains all the files (html, css, images, etc.)
 
 ## Schedule
 
