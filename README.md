@@ -52,7 +52,7 @@ This course is taught in modules designed to explore various media languages rel
 - 
 
 <!--
-
+- **[Project: Responsive Poster](lectures/proj-responsive-poster.md)**
 - [Assignments](lectures/w2-assignments.md)
 
 ### Week 3
