@@ -48,13 +48,18 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 2
 - Reveal.js presentation
-- [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
 - **[Project: Responsive Poster](lectures/proj-responsive-poster.md)**
+- [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
+  - position: absolute -> you can place elements anywhere you want without affecting other elements on the same page.
+  - top & left
 - CSS Units
   - px vs. vw & vh
   - viewport width (vw) & viewport height (vh): relative to current viewport size
   - 1 vw = 1% of current viewport width; 1 vh = 1% of current viewport height
   - [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
+- Web fonts
+  - [Google Fonts](http://fonts.google.com)
+  - [Adobe Typekit](http://typekit.com)
 - [Assignments](lectures/w2-assignments.md)
 
 <!--
