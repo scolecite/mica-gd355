@@ -52,8 +52,8 @@ This course is taught in modules designed to explore various media languages rel
 - **[Project: Responsive Poster](lectures/proj-responsive-poster.md)**
 - CSS Units
   - px vs. vw & vh
-  - viewport width (vw) & viewport height (vh): relative to current window size
-  - 1 vw = 1% of current window width; 1 vh = 1% of current window height
+  - viewport width (vw) & viewport height (vh): relative to current viewport size
+  - 1 vw = 1% of current viewport width; 1 vh = 1% of current viewport height
   - [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
 - [Assignments](lectures/w2-assignments.md)
 
