@@ -50,6 +50,11 @@ This course is taught in modules designed to explore various media languages rel
 - Reveal.js presentation
 - [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
 - **[Project: Responsive Poster](lectures/proj-responsive-poster.md)**
+- CSS Units
+  - px vs. vw & vh
+  - viewport width (vw) & viewport height (vh): relative to current window size
+  - 1 vw = 1% of current window width; 1 vh = 1% of current window height
+  - [Viewport Sized Typography](https://css-tricks.com/viewport-sized-typography/)
 - [Assignments](lectures/w2-assignments.md)
 
 <!--
