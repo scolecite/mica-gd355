@@ -31,7 +31,7 @@ The responsive poster will be designed for a web browser, but you can think abou
 - [AIGA Design for Democracy](https://www.aiga.org/design-for-democracy)
 
 ## Examples
-The responsive poster is fairly new concept and there are not many examples out there. But search for moving posters to get inspirations. 
+The responsive poster is fairly new concept and there are not many examples out there. But you can search for 'responsive design' in general to learn about the techniques and approaches. Also, search for moving posters to get inspirations. 
 - Responsive poster [1](https://www.instagram.com/p/BjULj9aj5ai/?taken-by=cdaein), [2](https://www.instagram.com/p/BjYbPgDBjSq/?taken-by=cdaein), [3](https://www.instagram.com/p/Bjze9JFDd3M/?taken-by=cdaein)
 - 
 
