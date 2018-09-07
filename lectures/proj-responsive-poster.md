@@ -13,6 +13,7 @@ The responsive poster will be designed for a web browser, but you can think abou
 Choose an audience group you want to communicate with. 
 
 ![layout template](../images/responsive-poster-layout-template.png)
+You can download the AI template above [here](../files/responsive-poster-layout-template.ai)
 
 
 ## Deliverable
