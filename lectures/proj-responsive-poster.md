@@ -40,3 +40,6 @@ Work on coding
 
 ### Week 5
 Project 1 due
+
+
+![mica votes](../images/mica-votes.jpg)
