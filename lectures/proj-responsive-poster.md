@@ -12,6 +12,8 @@ The responsive poster will be designed for a web browser, but you can think abou
 
 Choose an audience group you want to communicate with. 
 
+![layout template](../images/responsive-poster-layout-template.png)
+
 
 ## Deliverable
 - A responsive poster that works in a browser at any size.
