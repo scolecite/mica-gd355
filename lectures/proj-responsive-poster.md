@@ -2,15 +2,11 @@
 
 Responsive web design is an approach to web design that makes web pages render well on a variety of devices and window or screen sizes. (from [Wikipedia](https://en.wikipedia.org/wiki/Responsive_web_design)) We will apply the same concpet to poster design to create a poster that works on multiple screen sizes and proportions. With this project, we move away from creating a single outcome/product, and focus on working with rules to design a system that can respond to different conditions.
 
-Create a responsive poster to promote voting on November 6th. The poster must be non-partisan. Please do not make expressions to support or attack any particular people or political parties. You can instead focus on supporting/helping people exercise their own rights in a democratic society.
+Create a responsive poster to promote voting on November 6th. The poster must be non-partisan. Please refrain from making expressions to support or attack any particular people or political parties. You can instead focus on supporting/helping people exercise their own rights in a democratic society.
 
-The responsive poster will be designed for a web browser, but you can think about other contexts as well - the same design may be used for banners, social media, brochure, postcard, etc.
+Choose an audience group you want to communicate with. Do some research on the group and on the election. Come up with appropriate visual style based on your research. Use animation/interaction to create more engaging experience.
 
-
-
-
-
-Choose an audience group you want to communicate with. 
+You will mainly creaThe responsive poster will be designed for a web browser, but you can think about other contexts as well - the same design may be used for banners, social media, brochure, postcard, etc.
 
 ![layout template](../images/responsive-poster-layout-template.png)
 You can download the AI template above [here](../files/responsive-poster-layout-template.ai)
@@ -33,9 +29,10 @@ You can download the AI template above [here](../files/responsive-poster-layout-
 
 ### Week 2
 Project 1 assigned  
-Develop ideas, sketches
+Develop ideas, sketches, digital mockups
 
 ### Week 3
+Review digital mockups  
 Work on coding 
 
 ### Week 4
