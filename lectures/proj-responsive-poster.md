@@ -13,7 +13,7 @@ Once you come up with a design direction, create digital mockups for four basic 
 ![layout template](../images/responsive-poster-layout-template.png)
 *You can download the AI template above [here](../files/responsive-poster-layout-template.ai)*
 
-All the elements in the poster should be properly set in HTML and CSS. For instance, all the fonts you use should be *web fonts*, meaning you cannot just use the fonts on your computer because users may not have the same fonts on their computers. All text elements must be set as HTML text (not as images) for accessibility. All the geometric shapes should be set either as CSS or SVG. You can use videos or other interactive elements as part of your poster but do not include any audio.
+All the elements in the poster should be properly set in HTML and CSS. For instance, all the fonts you use should be *web fonts*, meaning you cannot just use the fonts on your computer because users may not have the same fonts on their computers. All text elements must be set as HTML text (not as images) for accessibility. All the geometric shapes should be set either as CSS or SVG. You can use videos or other interactive elements as part of your poster.
 
 The responsive poster will be designed for a web browser, but you can think about other contexts as well - the same design may be used for banners, social media, brochure, postcard, etc.
 
@@ -30,11 +30,14 @@ The responsive poster will be designed for a web browser, but you can think abou
 - [AIGA Get Out The Vote Toolkit](https://aigagotv.com)
 - [AIGA Design for Democracy](https://www.aiga.org/design-for-democracy)
 
+
 ## Examples
 The responsive poster is fairly new concept and there are not many examples out there. But you can search for 'responsive design' in general to learn about the techniques and approaches. Also, search for moving posters to get inspirations. 
 - Responsive poster [1](https://www.instagram.com/p/BjULj9aj5ai/?taken-by=cdaein), [2](https://www.instagram.com/p/BjYbPgDBjSq/?taken-by=cdaein), [3](https://www.instagram.com/p/Bjze9JFDd3M/?taken-by=cdaein)
-- 
-
+- [Studio Feixen](https://www.instagram.com/studiofeixen/)
+  - [Oto Nove Swiss](http://www.otonoveswiss.co.uk)
+- [The Moving Poster](http://www.themovingposter.com)
+- [Google Trends visualized](https://trends.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
 
 ## Schedule
