@@ -4,24 +4,36 @@ Responsive web design is an approach to web design that makes web pages render w
 
 Create a responsive poster to promote voting on November 6th. The poster must be non-partisan. Please refrain from making expressions to support or attack any particular people or political parties. You can instead focus on supporting/helping people exercise their own rights in a democratic society.
 
-Choose an audience group you want to communicate with. Do some research on the group and on the election. Come up with appropriate visual style based on your research. Use animation/interaction to create more engaging experience.
+## Process
 
-You will mainly creaThe responsive poster will be designed for a web browser, but you can think about other contexts as well - the same design may be used for banners, social media, brochure, postcard, etc.
+Choose an audience group you want to communicate your message with. Do some research on the group and on the voting/election itself. Come up with an appropriate visual style based on your research. Use animation/interaction to create more engaging experience.
+
+Once you come up with a design direction, create digital mockups for four basic static layouts (see image below). This still layouts will serve as a visual guide when you start coding HTML and CSS. 
 
 ![layout template](../images/responsive-poster-layout-template.png)
-You can download the AI template above [here](../files/responsive-poster-layout-template.ai)
+*You can download the AI template above [here](../files/responsive-poster-layout-template.ai)*
+
+All the elements in the poster should be properly set in HTML and CSS. For instance, all the fonts you use should be *web fonts*, meaning you cannot just use the fonts on your computer because users may not have the same fonts on their computers. All text elements must be set as HTML text (not as images) for accessibility. All the geometric shapes should be set either as CSS or SVG. You can use videos or other interactive elements as part of your poster but do not include any audio.
+
+The responsive poster will be designed for a web browser, but you can think about other contexts as well - the same design may be used for banners, social media, brochure, postcard, etc.
 
 
 ## Deliverable
 - A responsive poster that works in a browser at any size.
 - The poster must be non-partisan.
 - Submit a project folder that contains all the files (html, css, images, etc.).
+- Your codes must be readable and cleanly formatted. 
 
 
 ## References
 - [AIGA Get Out The Vote](https://www.aiga.org/vote) 2016
 - [AIGA Get Out The Vote Toolkit](https://aigagotv.com)
 - [AIGA Design for Democracy](https://www.aiga.org/design-for-democracy)
+
+## Examples
+The responsive poster is fairly new concept and there are not many examples out there. But search for moving posters to get inspirations. 
+- Responsive poster [1](https://www.instagram.com/p/BjULj9aj5ai/?taken-by=cdaein), [2](https://www.instagram.com/p/BjYbPgDBjSq/?taken-by=cdaein), [3](https://www.instagram.com/p/Bjze9JFDd3M/?taken-by=cdaein)
+- 
 
 
 
