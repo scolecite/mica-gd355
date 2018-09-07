@@ -49,7 +49,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 2
 - Reveal.js presentation
 - **[Project: Responsive Poster](lectures/proj-responsive-poster.md)**
-  - [Be water, my friend](https://www.youtube.com/watch?v=rI8UjWSF3sw)
+  - [Be water, my friend](https://www.youtube.com/watch?v=vDbPMAlZ-04)
 - [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
   - position: absolute -> you can place elements anywhere you want without affecting other elements on the same page.
   - top & left
