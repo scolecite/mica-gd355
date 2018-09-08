@@ -63,6 +63,8 @@ This course is taught in modules designed to explore various media languages rel
   - [Google Fonts](http://fonts.google.com)
   - [Adobe Typekit](http://typekit.com)
 - [Assignments](lectures/w2-assignments.md)
+- Lecture videos
+  - 
 
 <!--
 ### Week 3
