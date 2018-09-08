@@ -54,6 +54,8 @@ This course is taught in modules designed to explore various media languages rel
 - [CSS Position](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w6-css-layout-position.md) (from GD2)
   - position: absolute -> you can place elements anywhere you want without affecting other elements on the same page.
   - top & left
+- CSS drawing [reference](https://css-tricks.com/examples/ShapesOfCSS/)
+  - [responsive mondrian](https://labs.jensimmons.com/2017/01-011.html)
 - CSS Units
   - px vs. vw & vh
   - viewport width (vw) & viewport height (vh): relative to current viewport size
