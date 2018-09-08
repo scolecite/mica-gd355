@@ -64,7 +64,8 @@ This course is taught in modules designed to explore various media languages rel
   - [Adobe Typekit](http://typekit.com)
 - [Assignments](lectures/w2-assignments.md)
 - Lecture videos
-  - 
+  - [more CSS](https://www.youtube.com/watch?v=obZMP7FQbIo&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj&index=5&t=0s)
+  - [CSS position & relative units](https://www.youtube.com/watch?v=6F8BEmcpQEs&index=5&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
 
 <!--
 ### Week 3
