@@ -10,7 +10,6 @@
     - Session 3: Flow and Response
     
 
-
 ## Main assignment
 
 Create two p5js sketches -- one visualizing the word *round*, the other visualizing the word *sharp*.
