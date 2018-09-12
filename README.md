@@ -72,7 +72,7 @@ This course is taught in modules designed to explore various media languages rel
 
 ### Week 3
 - @media queries
-- Poster code template: download [here](../files/poster-code-template.zip)
+- Poster code template: download [here](files/poster-code-template.zip)
 
 <!--
 ### Week 4
@@ -82,6 +82,32 @@ class cancelled
 
 
 ### Week 5
+- Review Poster WIP
+- [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
+- [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
+- [Structure of a sketch](lectures/w2-structure.md)
+- [Basic drawing](lectures/w2-basic-drawing.md)
+- [Advanced drawing](lectures/w2-adv-drawing.md)
+
+
+- [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
+- [Drawing type](lectures/w2-drawing-type.md)
+
+### Week 6
+- [p5.js online editor](http://alpha.editor.p5js.org)
+- [Arithmetic](lectures/w3-arithmetic.md)
+- [Variables](lectures/w3-variables.md)
+- [Randomness](lectures/w3-random.md)
+- [Assignments](lectures/w3-assignments.md)
+
+### Week 7
+- [Having problems with your code?](lectures/w4-problem-solving.md)
+- [Function](lectures/w4-function.md)
+- [Transformations](lectures/w4-transformation.md)
+- [Conditionals](lectures/w4-conditionals.md)
+- [Assignments](lectures/w4-assignments.md)
+
+### Week 8
 - [Assignments review](lectures/w5-review.md)
 - Loop basics
   - [for loop challenge](lectures/w5-challenge.md)
@@ -90,27 +116,7 @@ class cancelled
   - [How to export SVG](lectures/w5-svg-export.md) (vector graphics)
 - [Assignments](lectures/w5-assignments.md)
 
-- [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
-- [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
-- [Structure of a sketch](lectures/w2-structure.md)
-- [Basic drawing](lectures/w2-basic-drawing.md)
-- [Advanced drawing](lectures/w2-adv-drawing.md)
-- [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
-- [Drawing type](lectures/w2-drawing-type.md)
 
-- [p5.js online editor](http://alpha.editor.p5js.org)
-- [Arithmetic](lectures/w3-arithmetic.md)
-- [Variables](lectures/w3-variables.md)
-- [Randomness](lectures/w3-random.md)
-- [Assignments](lectures/w3-assignments.md)
-
-- [Having problems with your code?](lectures/w4-problem-solving.md)
-- [Function](lectures/w4-function.md)
-- [Transformations](lectures/w4-transformation.md)
-- [Conditionals](lectures/w4-conditionals.md)
-- [Assignments](lectures/w4-assignments.md)
-
-### Week 6
 - Loop continued
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
@@ -118,12 +124,10 @@ class cancelled
   - [basic example](lectures/w6-annyang.md)
 - [Assignments](lectures/w6-assignments.md)
 
-### Week 7
 - [Object](lectures/w7-object.md)
 - **[Project: Parametric Design System](lectures/proj-parametric-design.md)**
 - [Assignments](lectures/w7-assignments.md)
 
-### Week 8
 - Project idea/research presentation
 - Object review
     - [bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/H1ShtILpZ)
@@ -132,20 +136,25 @@ class cancelled
     - [interactive bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/HJdF8TL6-)
 - [Assignments](lectures/w8-assignments.md)
 
+
+
+
+
+
+
+
+
+
 ### Week 9
-- Review CSV file/design mockups
 - [Working with CSV data in p5js](lectures/w9-csv.md)
 - [Assignments](lectures/w9-assignments.md)
 
 ### Week 10
-- Review prototype
 - [Assignments](lectures/w10-assignments.md)
 
 ### Week 11
-- Project 1 presentation 
 
 ### Week 12
-- Project 1 final review
 - **[Project 2: Data-driven Form-making](lectures/proj-data-form.md)**
 - [How to convert p5js to Processing](lectures/w12-p5-to-processing.md)
     - [Processing transitions](https://github.com/processing/p5.js/wiki/Processing-transition)
@@ -155,12 +164,9 @@ class cancelled
 *Thanksviging break - no class*
 
 ### Week 14
-- First prototypes review
 - [Trigonometry](lectures/w14-trigonometry.md)
-- Assignment: present the 2nd working prototype.
 
 ### Week 15
-- Second prototypes review
 
 ### Week 16
 - Final review
