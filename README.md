@@ -71,7 +71,7 @@ This course is taught in modules designed to explore various media languages rel
 
 
 ### Week 3
-
+- @media queries
 
 <!--
 ### Week 4
