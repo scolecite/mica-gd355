@@ -89,7 +89,6 @@ class cancelled
 - [Basic drawing](lectures/w2-basic-drawing.md)
 - [Advanced drawing](lectures/w2-adv-drawing.md)
 
-
 - [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 - [Drawing type](lectures/w2-drawing-type.md)
 
@@ -116,7 +115,7 @@ class cancelled
   - [How to export SVG](lectures/w5-svg-export.md) (vector graphics)
 - [Assignments](lectures/w5-assignments.md)
 
-
+### Week 9
 - Loop continued
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
@@ -124,10 +123,12 @@ class cancelled
   - [basic example](lectures/w6-annyang.md)
 - [Assignments](lectures/w6-assignments.md)
 
+### Week 10
 - [Object](lectures/w7-object.md)
 - **[Project: Parametric Design System](lectures/proj-parametric-design.md)**
 - [Assignments](lectures/w7-assignments.md)
 
+### Week 11
 - Project idea/research presentation
 - Object review
     - [bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/H1ShtILpZ)
@@ -136,25 +137,13 @@ class cancelled
     - [interactive bouncing ball example](http://alpha.editor.p5js.org/cdaein/sketches/HJdF8TL6-)
 - [Assignments](lectures/w8-assignments.md)
 
+### Week 12
 
-
-
-
-
-
-
-
-
-### Week 9
 - [Working with CSV data in p5js](lectures/w9-csv.md)
 - [Assignments](lectures/w9-assignments.md)
 
-### Week 10
 - [Assignments](lectures/w10-assignments.md)
 
-### Week 11
-
-### Week 12
 - **[Project 2: Data-driven Form-making](lectures/proj-data-form.md)**
 - [How to convert p5js to Processing](lectures/w12-p5-to-processing.md)
     - [Processing transitions](https://github.com/processing/p5.js/wiki/Processing-transition)
