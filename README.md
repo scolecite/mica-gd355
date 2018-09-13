@@ -78,11 +78,10 @@ This course is taught in modules designed to explore various media languages rel
 - Poster basic example: download [here](files/poster-basic-example.zip)
 
 <!--
+- [Assignments](lectures/w3-assignments.md)
+
 ### Week 4
 class cancelled
-
-
-
 
 ### Week 5
 - Review Poster WIP
