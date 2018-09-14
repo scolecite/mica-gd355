@@ -81,7 +81,7 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 4 (9/21)
 class cancelled
 
-### Week 5
+### Week 5 (9/28)
 - Review Poster WIP
 
 <!--
@@ -94,21 +94,21 @@ class cancelled
 - [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 - [Drawing type](lectures/w2-drawing-type.md)
 
-### Week 6
+### Week 6 (10/5)
 - [p5.js online editor](http://alpha.editor.p5js.org)
 - [Arithmetic](lectures/w3-arithmetic.md)
 - [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
 - [Assignments](lectures/w3-assignments.md)
 
-### Week 7
+### Week 7 (10/12)
 - [Having problems with your code?](lectures/w4-problem-solving.md)
 - [Function](lectures/w4-function.md)
 - [Transformations](lectures/w4-transformation.md)
 - [Conditionals](lectures/w4-conditionals.md)
 - [Assignments](lectures/w4-assignments.md)
 
-### Week 8
+### Week 8 (10/19)
 - [Assignments review](lectures/w5-review.md)
 - Loop basics
   - [for loop challenge](lectures/w5-challenge.md)
@@ -117,7 +117,7 @@ class cancelled
   - [How to export SVG](lectures/w5-svg-export.md) (vector graphics)
 - [Assignments](lectures/w5-assignments.md)
 
-### Week 9
+### Week 9 (10/26)
 - Loop continued
   - [Pattern making with p5.js](https://codepen.io/collection/AyaKxK/)
 - Transformations review
