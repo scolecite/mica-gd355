@@ -80,6 +80,8 @@ This course is taught in modules designed to explore various media languages rel
 - Learn more about the web standards from [w3c](https://www.w3.org)
   - more technical info on [media queries](https://www.w3.org)
 - [Assignments](lectures/w3-assignments.md)
+- Lecture videos
+  - [CSS review & media queries](https://youtu.be/31gFEhubObk)
 
 ### Week 4 (9/21)
 class cancelled
