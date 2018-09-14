@@ -76,6 +76,8 @@ This course is taught in modules designed to explore various media languages rel
 - [CSS keyframe animation](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w8-css-animation-basics.md) (from GD2)
 - Poster code template: download [here](files/poster-code-template.zip)
 - Poster basic example: download [here](files/poster-basic-example.zip)
+- Learn more about the web standards from [w3c](https://www.w3.org)
+  - more technical info on [media queries](https://www.w3.org)
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4 (9/21)
