@@ -24,6 +24,7 @@ This course is taught in modules designed to explore various media languages rel
 - [Resources](lectures/resources.md)
 - Submit assignments [here](https://drive.google.com/drive/folders/1EE06L-9NFmaqm2JSXTny-ulGUbdB3Mw2?usp=sharing)
 - [Live poll link](https://pollev.com/daechung096)
+- [Student Github repos](lectures/student-repos.md): share your Github repo with course-related files so that we can learn from each other.
 
 ## Weekly Schedule
 
