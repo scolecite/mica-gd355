@@ -70,7 +70,7 @@ This course is taught in modules designed to explore various media languages rel
   - [CSS position & relative units](https://www.youtube.com/watch?v=6F8BEmcpQEs&index=5&list=PLpnblWsU0QoTc_EwN8nCFXtpBq7ddR-uj)
 
 
-### Week 3
+### Week 3 (9/14)
 - @media queries
   - [from w3schools.com](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 - [CSS keyframe animation](https://github.com/cdaein/mica-gd220/blob/spring2018/lectures/w8-css-animation-basics.md) (from GD2)
@@ -80,7 +80,7 @@ This course is taught in modules designed to explore various media languages rel
 <!--
 - [Assignments](lectures/w3-assignments.md)
 
-### Week 4
+### Week 4 (9/21)
 class cancelled
 
 ### Week 5
