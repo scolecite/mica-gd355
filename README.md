@@ -81,9 +81,10 @@ This course is taught in modules designed to explore various media languages rel
 ### Week 4 (9/21)
 class cancelled
 
-<!--
 ### Week 5
 - Review Poster WIP
+
+<!--
 - [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
 - [Structure of a sketch](lectures/w2-structure.md)
