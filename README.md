@@ -88,19 +88,17 @@ class cancelled
 
 ### Week 5 (9/28)
 - Review Poster WIP
-
 <!--
 - [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
 - [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
+  - [p5.js online editor](http://editor.p5js.org)
 - [Structure of a sketch](lectures/w2-structure.md)
 - [Basic drawing](lectures/w2-basic-drawing.md)
 - [Advanced drawing](lectures/w2-adv-drawing.md)
-
-- [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 - [Drawing type](lectures/w2-drawing-type.md)
 
 ### Week 6 (10/5)
-- [p5.js online editor](http://alpha.editor.p5js.org)
+- Project 1 review
 - [Arithmetic](lectures/w3-arithmetic.md)
 - [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
@@ -167,4 +165,6 @@ class cancelled
 ### Week 16
 - Final review
 
+
+- [Convert Illustrator shape to p5 code](lectures/w2-illust-to-p5.md)
 -->
