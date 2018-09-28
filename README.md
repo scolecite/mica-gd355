@@ -91,7 +91,7 @@ class cancelled
 - Slides: intro to computational design
 - [Set up a p5.js sketch](lectures/w5-setup-sketch.md)
   - [p5.js online editor](http://editor.p5js.org)
-- [Structure of a sketch](lectures/52-structure.md)
+- [Structure of a sketch](lectures/w5-structure.md)
 - [Basic drawing](lectures/w5-basic-drawing.md)
 - [Advanced drawing](lectures/w5-adv-drawing.md)
 - [Drawing type](lectures/w5-drawing-type.md)
