@@ -93,12 +93,12 @@ class cancelled
   - [p5.js online editor](http://editor.p5js.org)
 - [Structure of a sketch](lectures/w5-structure.md)
 - [Basic drawing](lectures/w5-basic-drawing.md)
-- [Advanced drawing](lectures/w5-adv-drawing.md)
-- [Drawing type](lectures/w5-drawing-type.md)
 - [Assignments](lectures/w5-assignments.md)
 
 ### Week 6 (10/5)
 - Project 1 review
+- [Advanced drawing](lectures/w6-adv-drawing.md)
+- [Drawing type](lectures/w6-drawing-type.md)
 
 <!--
 - [Arithmetic](lectures/w3-arithmetic.md)
