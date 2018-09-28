@@ -95,11 +95,12 @@ class cancelled
 - [Basic drawing](lectures/w5-basic-drawing.md)
 - [Advanced drawing](lectures/w5-adv-drawing.md)
 - [Drawing type](lectures/w5-drawing-type.md)
-- Assignments
+- [Assignments](lectures/w5-assignments.md)
 
-<!--
 ### Week 6 (10/5)
 - Project 1 review
+
+<!--
 - [Arithmetic](lectures/w3-arithmetic.md)
 - [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
