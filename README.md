@@ -99,6 +99,7 @@ Now we're learning JavaScript!
 
 ### Week 6 (10/5)
 - Project 1 review
+  - [Hallway exhibit](lectures/w6-exhibit.md) coming up.
 - [Advanced drawing](lectures/w6-adv-drawing.md)
 - [Drawing type](lectures/w6-drawing-type.md)
 - [Arithmetic](lectures/w6-arithmetic.md)
