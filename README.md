@@ -101,10 +101,10 @@ Now we're learning JavaScript!
 - Project 1 review
 - [Advanced drawing](lectures/w6-adv-drawing.md)
 - [Drawing type](lectures/w6-drawing-type.md)
+- [Arithmetic](lectures/w6-arithmetic.md)
+- [Variables](lectures/w6-variables.md)
 
 <!--
-- [Arithmetic](lectures/w3-arithmetic.md)
-- [Variables](lectures/w3-variables.md)
 - [Randomness](lectures/w3-random.md)
 - [Assignments](lectures/w3-assignments.md)
 
