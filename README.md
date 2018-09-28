@@ -88,15 +88,16 @@ class cancelled
 
 ### Week 5 (9/28)
 - Review Poster WIP
-<!--
-- [Slides](http://paperdove.com/mica-gd355/fa17/w1-slides/index.html#/)
-- [Set up a p5.js sketch](lectures/w2-setup-sketch.md)
+- Slides: intro to computational design
+- [Set up a p5.js sketch](lectures/w5-setup-sketch.md)
   - [p5.js online editor](http://editor.p5js.org)
-- [Structure of a sketch](lectures/w2-structure.md)
-- [Basic drawing](lectures/w2-basic-drawing.md)
-- [Advanced drawing](lectures/w2-adv-drawing.md)
-- [Drawing type](lectures/w2-drawing-type.md)
+- [Structure of a sketch](lectures/52-structure.md)
+- [Basic drawing](lectures/w5-basic-drawing.md)
+- [Advanced drawing](lectures/w5-adv-drawing.md)
+- [Drawing type](lectures/w5-drawing-type.md)
+- Assignments
 
+<!--
 ### Week 6 (10/5)
 - Project 1 review
 - [Arithmetic](lectures/w3-arithmetic.md)
