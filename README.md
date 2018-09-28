@@ -89,6 +89,8 @@ class cancelled
 ### Week 5 (9/28)
 - Review Poster WIP
 - Slides: intro to computational design
+
+Now we're learning JavaScript!
 - [Set up a p5.js sketch](lectures/w5-setup-sketch.md)
   - [p5.js online editor](http://editor.p5js.org)
 - [Structure of a sketch](lectures/w5-structure.md)
