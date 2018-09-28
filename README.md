@@ -96,6 +96,8 @@ Now we're learning JavaScript!
 - [Structure of a sketch](lectures/w5-structure.md)
 - [Basic drawing](lectures/w5-basic-drawing.md)
 - [Assignments](lectures/w5-assignments.md)
+- Lecture video
+  - [p5js setup](https://youtu.be/EGZv1dXs_D4)
 
 ### Week 6 (10/5)
 - Project 1 review
